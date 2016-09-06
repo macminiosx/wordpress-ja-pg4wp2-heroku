@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-08-17 04:58:10+0000\n"
+"PO-Revision-Date: 2016-08-17 17:21:22+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -2403,7 +2403,7 @@ msgstr ""
 "このデバッグメールは開発版の WordPress を利用中の場合に送信されます。\n"
 "\n"
 "失敗の原因が WordPress のバグにあると思われる場合は報告にご協力ください。\n"
-" * サポートフォーラムにスレッドを開く: https://ja.forums.wordpress.org/forum/7\n"
+" * サポートフォーラムにスレッドを開く: https://ja.wordpress.org/support/forum/alphabeta/\n"
 " * バグレポートを書くことに抵抗がない方はこちらからどうぞ: https://core.trac.wordpress.org/\n"
 "\n"
 "ありがとうございます ! -- WordPress チーム"
@@ -2586,7 +2586,7 @@ msgstr "https://ja.wordpress.org/support/forums/feed"
 #: wp-admin/includes/dashboard.php:1118 wp-admin/index.php:77
 #: wp-admin/index.php:83
 msgid "https://planet.wordpress.org/"
-msgstr "https://ja.forums.wordpress.org/"
+msgstr "https://ja.wordpress.org/support/"
 
 #: wp-admin/includes/class-wp-plugin-install-list-table.php:578
 msgid "Untested with your version of WordPress"
@@ -2934,7 +2934,7 @@ msgstr "<strong>概要</strong> &mdash; サイト内のコンテンツの概要�
 
 #: wp-admin/maint/repair.php:147
 msgid "https://wordpress.org/support/forum/how-to-and-troubleshooting"
-msgstr "https://ja.forums.wordpress.org/forum/1"
+msgstr "https://ja.wordpress.org/support/forum/how-to-and-troubleshooting/"
 
 #: wp-admin/revision.php:78
 msgid "&larr; Return to editor"
@@ -2999,7 +2999,7 @@ msgstr "<a href=\"%s\">WordPress</a> のご利用ありがとうございます�
 #: wp-admin/upload.php:67 wp-admin/upload.php:208 wp-admin/user-edit.php:55
 #: wp-admin/user-new.php:207 wp-admin/users.php:69 wp-admin/widgets.php:75
 msgid "<a href=\"https://wordpress.org/support/\" target=\"_blank\">Support Forums</a>"
-msgstr "<a href=\"https://ja.forums.wordpress.org/\" target=\"_blank\">サポートフォーラム</a>"
+msgstr "<a href=\"https://ja.wordpress.org/support/\" target=\"_blank\">サポートフォーラム</a>"
 
 #: wp-admin/credits.php:42 wp-admin/credits.php:104
 msgid "https://make.wordpress.org/"

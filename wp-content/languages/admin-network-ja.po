@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Network Admin package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2016-07-21 00:53:21+0000\n"
+"PO-Revision-Date: 2016-08-17 17:33:07+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -524,7 +524,7 @@ msgstr "次の内容を %2$s にある %1$s ファイルへ追加して、他の
 #: wp-admin/network/sites.php:46 wp-admin/network/user-new.php:30
 #: wp-admin/network/users.php:172
 msgid "<a href=\"https://wordpress.org/support/forum/multisite/\" target=\"_blank\">Support Forums</a>"
-msgstr "<a href=\"http://ja.forums.wordpress.org/forum/11\" target=\"_blank\">サポートフォーラム</a>"
+msgstr "<a href=\"https://ja.wordpress.org/support/forum/multisite/\" target=\"_blank\">サポートフォーラム</a>"
 
 #: wp-admin/network/sites.php:103
 msgid "Confirm your action"
