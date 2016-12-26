@@ -100,5 +100,7 @@ $wpmp_conf['patch_force_twentythirteen_google_fonts_off'] = false;
 $wpmp_conf['patch_force_twentyfourteen_google_fonts_off'] = false;
 $wpmp_conf['patch_force_twentyfifteen_google_fonts_off'] = false;
 $wpmp_conf['patch_force_twentysixteen_google_fonts_off'] = false;
+$wpmp_conf['patch_force_twentyseventeen_google_fonts_off'] = false;
 $wpmp_conf['patch_sanitize_file_name'] = true;
+$wpmp_conf['patch_sanitize_feed_xml_text'] = false;
 $wpmp_conf['patch_bp_create_excerpt'] = false;

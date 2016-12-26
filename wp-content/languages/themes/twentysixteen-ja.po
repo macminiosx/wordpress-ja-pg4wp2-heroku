@@ -1,5 +1,5 @@
-# Translation of Twenty Sixteen in Japanese
-# This file is distributed under the same license as the Twenty Sixteen package.
+# Translation of Themes - Twenty Sixteen in Japanese
+# This file is distributed under the same license as the Themes - Twenty Sixteen package.
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2015-11-21 09:15:38+0000\n"
@@ -7,16 +7,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: GlotPress/2.1.0-alpha\n"
-"Project-Id-Version: Twenty Sixteen\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Twenty Sixteen\n"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Sixteen"
+msgstr "Twenty Sixteen"
 
 #. Description of the plugin/theme
 msgid "Twenty Sixteen is a modernized take on an ever-popular WordPress layout — the horizontal masthead with an optional right sidebar that works perfectly for blogs and websites. It has custom color options with beautiful default color schemes, a harmonious fluid grid using a mobile-first approach, and impeccable polish in every detail. Twenty Sixteen will make your WordPress look beautiful everywhere."
 msgstr "Twenty Sixteen は ずっと人気の WordPress レイアウト — ブログとウェブサイト用に完全に動作する、オプションの右サイドバーのある水平の題字 — に対するモダンな試みです。美しいデフォルトカラースキームのカラーオプション、モバイルファーストのアプローチによる調和した柔軟なグリッド、細部にまで非の打ち所がない上品さを備えています。Twenty Sixteen は WordPress の外観をどこであろうとも美しく見せるでしょう。"
 
-#. Theme Name of the plugin/theme
-msgid "Twenty Sixteen"
-msgstr "Twenty Sixteen"
+#. translators: %s: Name of current post
+#: inc/template-tags.php:184 template-parts/content.php:28
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">\"%s\"の</span>続きを読む"
 
 #. translators: %s: Name of current post
 #: image.php:84 template-parts/content-page.php:37
@@ -24,11 +30,6 @@ msgstr "Twenty Sixteen"
 #: template-parts/content-single.php:45 template-parts/content.php:49
 msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
 msgstr "<span class=\"screen-reader-text\">\"%s\"を</span>編集"
-
-#. translators: %s: Name of current post
-#: inc/template-tags.php:184 template-parts/content.php:28
-msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
-msgstr "<span class=\"screen-reader-text\">\"%s\"の</span>続きを読む"
 
 #: inc/customizer.php:283
 msgid "Red"
@@ -55,13 +56,13 @@ msgctxt "label"
 msgid "Search for:"
 msgstr "検索対象:"
 
-#: footer.php:17
-msgid "Footer Primary Menu"
-msgstr "フッターメインメニュー"
-
 #: footer.php:28
 msgid "Footer Social Links Menu"
 msgstr "フッターソーシャルリンクメニュー"
+
+#: footer.php:17
+msgid "Footer Primary Menu"
+msgstr "フッターメインメニュー"
 
 #: functions.php:158
 msgid "Add widgets here to appear in your sidebar."
@@ -99,13 +100,13 @@ msgstr "投稿者:"
 msgid "Previous post:"
 msgstr "過去の投稿:"
 
-#: single.php:35
-msgid "Next post:"
-msgstr "次の投稿:"
-
 #: single.php:37
 msgid "Previous"
 msgstr "前"
+
+#: single.php:35
+msgid "Next post:"
+msgstr "次の投稿:"
 
 #: single.php:34
 msgid "Next"
@@ -135,14 +136,14 @@ msgctxt "Used before publish date."
 msgid "Posted on"
 msgstr "投稿日:"
 
-#: inc/template-tags.php:50
-msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
-msgstr "<span class=\"screen-reader-text\">%sに</span>コメント"
-
 #: inc/template-tags.php:38
 msgctxt "Used before post format."
 msgid "Format"
 msgstr "フォーマット"
+
+#: inc/template-tags.php:50
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "<span class=\"screen-reader-text\">%sに</span>コメント"
 
 #: inc/template-tags.php:25
 msgctxt "Used before post author name."
@@ -161,38 +162,38 @@ msgstr "グレー"
 msgid "Dark"
 msgstr "ダーク"
 
-#: inc/customizer.php:184
-msgid "Secondary Text Color"
-msgstr "サブのテキストカラー"
+#: inc/customizer.php:172
+msgid "Main Text Color"
+msgstr "メインのテキストカラー"
 
 #: inc/customizer.php:253
 msgid "Default"
 msgstr "デフォルト"
 
-#: inc/customizer.php:172
-msgid "Main Text Color"
-msgstr "メインのテキストカラー"
-
-#: inc/customizer.php:145
-msgid "Page Background Color"
-msgstr "ページ背景色"
+#: inc/customizer.php:184
+msgid "Secondary Text Color"
+msgstr "サブのテキストカラー"
 
 #: inc/customizer.php:160
 msgid "Link Color"
 msgstr "リンク色"
 
-#: inc/customizer.php:130
-msgid "Base Color Scheme"
-msgstr "ベース配色"
-
-#: inc/back-compat.php:41 inc/back-compat.php:53 inc/back-compat.php:68
-msgid "Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
-msgstr "Twenty Sixteen には WordPress 4.4 以降のバージョンが必要です。現在ご利用中のバージョンは %s です。アップグレードしてもう一度お試しください。"
+#: inc/customizer.php:145
+msgid "Page Background Color"
+msgstr "ページ背景色"
 
 #: image.php:102 single.php:29
 msgctxt "Parent post link"
 msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
 msgstr "<span class=\"post-title\">%title</span> <span class=\"meta-nav\">内で公開</span>"
+
+#: inc/back-compat.php:41 inc/back-compat.php:53 inc/back-compat.php:68
+msgid "Twenty Sixteen requires at least WordPress version 4.4. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Sixteen には WordPress 4.4 以降のバージョンが必要です。現在ご利用中のバージョンは %s です。アップグレードしてもう一度お試しください。"
+
+#: inc/customizer.php:130
+msgid "Base Color Scheme"
+msgstr "ベース配色"
 
 #: image.php:73
 msgctxt "Used before full size attachment link."
@@ -220,21 +221,33 @@ msgstr "メニュー"
 msgid "Skip to content"
 msgstr "コンテンツへスキップ"
 
-#: functions.php:285
-msgid "collapse child menu"
-msgstr "サブメニューを閉じる"
-
 #: functions.php:284
 msgid "expand child menu"
 msgstr "サブメニューを展開"
 
+#: functions.php:285
+msgid "collapse child menu"
+msgstr "サブメニューを閉じる"
+
 #. translators: If there are characters in your language that are not supported
-#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
 #. language.
-#: functions.php:208
-msgctxt "Montserrat font: on or off"
+#: functions.php:213
+msgctxt "Inconsolata font: on or off"
 msgid "on"
-msgstr "off"
+msgstr "on"
+
+#: functions.php:166
+msgid "Content Bottom 1"
+msgstr "コンテンツ下 1"
+
+#: functions.php:168 functions.php:178
+msgid "Appears at the bottom of the content on posts and pages."
+msgstr "投稿や固定ページのコンテンツの下部に表示されます。"
+
+#: functions.php:176
+msgid "Content Bottom 2"
+msgstr "コンテンツ下 2"
 
 #. translators: If there are characters in your language that are not supported
 #. by Merriweather, translate this to 'off'. Do not translate into your own
@@ -244,25 +257,13 @@ msgctxt "Merriweather font: on or off"
 msgid "on"
 msgstr "on"
 
-#: functions.php:176
-msgid "Content Bottom 2"
-msgstr "コンテンツ下 2"
-
-#: functions.php:168 functions.php:178
-msgid "Appears at the bottom of the content on posts and pages."
-msgstr "投稿や固定ページのコンテンツの下部に表示されます。"
-
-#: functions.php:166
-msgid "Content Bottom 1"
-msgstr "コンテンツ下 1"
-
 #. translators: If there are characters in your language that are not supported
-#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. by Montserrat, translate this to 'off'. Do not translate into your own
 #. language.
-#: functions.php:213
-msgctxt "Inconsolata font: on or off"
+#: functions.php:208
+msgctxt "Montserrat font: on or off"
 msgid "on"
-msgstr "on"
+msgstr "off"
 
 #: functions.php:156
 msgid "Sidebar"
@@ -313,13 +314,13 @@ msgstr "こちらには何もありません。検索をお試しください。
 msgid "Oops! That page can&rsquo;t be found."
 msgstr "お探しのページが見つかりません。"
 
-#. Author of the plugin/theme
-msgid "the WordPress team"
-msgstr "WordPress チーム"
-
 #. Theme URI of the plugin/theme
 msgid "https://wordpress.org/themes/twentysixteen/"
 msgstr "https://ja.wordpress.org/themes/twentysixteen/"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "WordPress チーム"
 
 #. #-#-#-#-#  twentysixteen.pot (Twenty Sixteen 1.3)  #-#-#-#-#
 #. Author URI of the plugin/theme

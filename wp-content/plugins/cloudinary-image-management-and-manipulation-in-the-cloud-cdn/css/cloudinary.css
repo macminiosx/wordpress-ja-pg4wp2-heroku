@@ -36,13 +36,16 @@
 }
 
 .wp-media-buttons a.cloudinary_add_media {
-	margin-left: 30px;
-	font-weight: bold;
+	font-weight: normal;
 	font-size: 14px;
 	color: #1f416d;
-	background: url("../images/edit_icon.png") no-repeat scroll 0 -2px transparent;
-	padding-left: 27px;
-	padding-top: 2px;
+	background: url("../images/edit_icon.png") no-repeat scroll 4px 2px #fff;
+	padding: 6px 6px 6px 30px;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	border-radius: 3px;
+	border: 1px solid #ccc;
+	display: inline-block;
 }
 
 .wp-media-buttons span.cloudinary_message {
@@ -128,3 +131,10 @@
 	margin-top: 3px;
 	margin-left: 5px;
 }
+
+@media screen and (max-width: 782px) {
+	#wp-content-media-buttons a {
+		padding: 6px 6px 6px 30px;
+	}
+}
+

@@ -1,0 +1,327 @@
+# Translation of Themes - Twenty Seventeen in Japanese
+# This file is distributed under the same license as the Themes - Twenty Seventeen package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-12-06 02:56:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Twenty Seventeen\n"
+
+#. Description of the plugin/theme
+msgid "Twenty Seventeen brings your site to life with header video and immersive featured images. With a focus on business sites, it features multiple sections on the front page as well as widgets, navigation and social menus, a logo, and more. Personalize its asymmetrical grid with a custom color scheme and showcase your multimedia content with post formats. Our default theme for 2017 works great in many languages, for any abilities, and on any device."
+msgstr "Twenty Seventeen は、没入感のあるアイキャッチ画像と繊細なアニメーションを用いて、サイトに命を吹き込みます。ビジネスサイトにフォーカスをあて、ウィジェット、ナビゲーション、ソーシャルメニュー、ロゴ等はもちろんフロントページの複数のセクションを目立たせます。カスタム配色で非対称のグリッドの個性を出し、投稿フォーマットでマルチメディアコンテンツを際立たせます。2017年のデフォルトテーマは、多くの言語において、どんな才能に対しても、どのようなデバイスでも、うまく動作します。"
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Seventeen"
+msgstr "Twenty Seventeen"
+
+#: template-parts/header/site-branding.php:31
+#: template-parts/navigation/navigation-top.php:20
+msgid "Scroll down to content"
+msgstr "本文までスクロール"
+
+#: functions.php:150
+msgctxt "Theme starter content"
+msgid "Coffee"
+msgstr "コーヒー"
+
+#: functions.php:146
+msgctxt "Theme starter content"
+msgid "Sandwich"
+msgstr "サンドイッチ"
+
+#: functions.php:142
+msgctxt "Theme starter content"
+msgid "Espresso"
+msgstr "エスプレッソ"
+
+#: inc/custom-header.php:117
+msgid "Pause background video"
+msgstr "背景動画を一時停止"
+
+#: inc/custom-header.php:116
+msgid "Play background video"
+msgstr "背景動画を再生"
+
+#: inc/template-tags.php:154
+msgid "Front Page Section %1$s Placeholder"
+msgstr "フロントページセクション %1$s プレースホルダー"
+
+#: inc/customizer.php:80
+msgid "When the two column layout is assigned, the page title is in one column and content is in the other."
+msgstr "2カラムを選択すると、ページタイトルが一方のカラムに、コンテンツが他方のカラムに、それぞれ配置されます。"
+
+#: single.php:32
+msgid "Next Post"
+msgstr "次の投稿"
+
+#: index.php:27
+msgid "Posts"
+msgstr "投稿"
+
+#: inc/template-tags.php:88
+msgid "Tags"
+msgstr "タグ"
+
+#: inc/template-tags.php:84
+msgid "Categories"
+msgstr "カテゴリー"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:65
+msgid ", "
+msgstr ", "
+
+#. translators: %s: post date
+#: inc/template-tags.php:51
+msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
+msgstr "<span class=\"screen-reader-text\">投稿日:</span> %s"
+
+#. translators: %s: post author
+#: inc/template-tags.php:21
+msgid "by %s"
+msgstr "投稿者: %s"
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr "SVG アイコンのファイル名を決めてください。"
+
+#: inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr "配列形式におけるデフォルトパラメーターを設定してください。"
+
+#: inc/customizer.php:108
+msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
+msgstr "各セクションに表示したい固定ページをドロップダウンリストから選んでください。選んだ固定ページの編集画面でアイキャッチ画像を指定すると、そのセクションに画像を追加することもできます。セクションを空っぽにすると何も表示されません。"
+
+#. translators: %d is the front page section number
+#: inc/customizer.php:107
+msgid "Front Page Section %d Content"
+msgstr "フロントページ 第%dセクションのコンテンツ"
+
+#: inc/customizer.php:83 inc/customizer.php:130
+msgid "Two Column"
+msgstr "2カラム"
+
+#: inc/customizer.php:82 inc/customizer.php:129
+msgid "One Column"
+msgstr "1カラム"
+
+#: inc/customizer.php:77
+msgid "Page Layout"
+msgstr "固定ページレイアウト"
+
+#: inc/customizer.php:66
+msgid "Theme Options"
+msgstr "テーマオプション"
+
+#: inc/customizer.php:50
+msgid "Custom"
+msgstr "カスタム"
+
+#: inc/customizer.php:48
+msgid "Light"
+msgstr "ライト"
+
+#: inc/customizer.php:46
+msgid "Color Scheme"
+msgstr "配色"
+
+#: inc/custom-header.php:49
+msgid "Default Header Image"
+msgstr "デフォルトのヘッダー画像"
+
+#: functions.php:296
+msgid "Footer 2"
+msgstr "フッター2"
+
+#: functions.php:288 functions.php:298
+msgid "Add widgets here to appear in your footer."
+msgstr "フッターに表示させるにはここにウィジェットを追加してください。"
+
+#: functions.php:286
+msgid "Footer 1"
+msgstr "フッター1"
+
+#: functions.php:230
+msgctxt "Libre Franklin font: on or off"
+msgid "on"
+msgstr "off"
+
+#: functions.php:60 functions.php:170
+#: template-parts/navigation/navigation-top.php:12
+msgid "Top Menu"
+msgstr "トップメニュー"
+
+#: comments.php:60
+msgid "Reply"
+msgstr "返信する"
+
+#: template-parts/post/content-none.php:27
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのものが見つからないようです。検索すると良いかもしれません。"
+
+#: search.php:50
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: template-parts/post/content-none.php:23
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+#: search.php:21 template-parts/post/content-none.php:17
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+#: single.php:31
+msgid "Previous Post"
+msgstr "過去の投稿"
+
+#: comments.php:66 single.php:31
+msgid "Previous"
+msgstr "前"
+
+#: comments.php:67 single.php:32
+msgid "Next"
+msgstr "次"
+
+#: searchform.php:19
+msgctxt "submit button"
+msgid "Search"
+msgstr "検索"
+
+#: searchform.php:18
+msgctxt "placeholder"
+msgid "Search &hellip;"
+msgstr "検索 &hellip;"
+
+#: searchform.php:16
+msgctxt "label"
+msgid "Search for:"
+msgstr "検索:"
+
+#: search.php:19
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#. translators: %s: Name of current post
+#: functions.php:323 template-parts/page/content-front-page-panels.php:43
+#: template-parts/page/content-front-page.php:44
+#: template-parts/post/content-audio.php:80
+#: template-parts/post/content-gallery.php:66
+#: template-parts/post/content-image.php:56
+#: template-parts/post/content-video.php:78 template-parts/post/content.php:54
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">\"%s\"の</span>続きを読む"
+
+#: inc/customizer.php:49
+msgid "Dark"
+msgstr "ダーク"
+
+#: inc/back-compat.php:39 inc/back-compat.php:51 inc/back-compat.php:66
+msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Seventeen には WordPress 4.7以降のバージョンが必要です。現在ご利用中のバージョンは%sです。アップグレードしてもう一度お試しください。"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:117
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">\"%s\"を</span>編集"
+
+#: template-parts/page/content-page.php:25
+#: template-parts/post/content-audio.php:85
+#: template-parts/post/content-gallery.php:71
+#: template-parts/post/content-image.php:61
+#: template-parts/post/content-video.php:83 template-parts/post/content.php:59
+msgid "Pages:"
+msgstr "ページ:"
+
+#: template-parts/navigation/navigation-top.php:13
+msgid "Menu"
+msgstr "メニュー"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: functions.php:406
+msgid "Collapse child menu"
+msgstr "サブメニューを閉じる"
+
+#: functions.php:405
+msgid "Expand child menu"
+msgstr "サブメニューを展開"
+
+#: functions.php:278
+msgid "Add widgets here to appear in your sidebar."
+msgstr "サイドバーに表示させるにはここにウィジェットを追加してください。"
+
+#: functions.php:276
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: functions.php:61 functions.php:179
+msgid "Social Links Menu"
+msgstr "﻿ソーシャルリンクメニュー"
+
+#: template-parts/footer/site-info.php:13
+msgid "Proudly powered by %s"
+msgstr "Proudly powered by %s"
+
+#. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.0)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: template-parts/footer/site-info.php:13
+msgid "https://wordpress.org/"
+msgstr "https://ja.wordpress.org/"
+
+#: footer.php:25
+msgid "Footer Social Links Menu"
+msgstr "フッターソーシャルリンクメニュー"
+
+#: comments.php:75
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#. translators: 1: number of comments, 2: post title
+#: comments.php:40
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] "&ldquo;%2$s&rdquo; への%1$s件の返信"
+
+#. translators: %s: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr "&ldquo;%s&rdquo; への1件の返信"
+
+#: archive.php:47 index.php:52 search.php:45
+msgid "Page"
+msgstr "ページ"
+
+#: 404.php:21
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
+
+#: 404.php:24
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "こちらには何もありません。検索をお試しください。"
+
+#: archive.php:45 index.php:50 search.php:43
+msgid "Previous page"
+msgstr "前のページ"
+
+#: archive.php:46 index.php:51 search.php:44
+msgid "Next page"
+msgstr "次のページ"
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "WordPress チーム"
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyseventeen/"
+msgstr "https://ja.wordpress.org/themes/twentyseventeen/"

@@ -2,7 +2,7 @@
 Contributors: cloudinary
 Tags: image, images, media, gallery, photo, photos, picture, pictures, thumbnail, upload, admin, administration, api, cms, dashboard, editor, flickr, integration, manage, mobile, page, pages, post, social-media
 Requires at least: 3.0
-Tested up to: 4.0
+Tested up to: 4.7
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -160,6 +160,10 @@ Check out our dynamic [knowledge base](http://support.cloudinary.com/forums/2185
 N/A
 
 == Changelog ==
+
+= 1.1.5 (14 Nov 2016) =
+* Fix Upload/Insert button.
+* Fix setting page on before set credentials.
 
 = 1.1.4 (4 Nov 2014) =
 * Support newer versions of PHP in file upload. Report user agent to Cloudinary.
