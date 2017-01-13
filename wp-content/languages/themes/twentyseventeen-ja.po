@@ -24,17 +24,17 @@ msgstr "Twenty Seventeen"
 msgid "Scroll down to content"
 msgstr "本文までスクロール"
 
-#: functions.php:150
+#: functions.php:159
 msgctxt "Theme starter content"
 msgid "Coffee"
 msgstr "コーヒー"
 
-#: functions.php:146
+#: functions.php:155
 msgctxt "Theme starter content"
 msgid "Sandwich"
 msgstr "サンドイッチ"
 
-#: functions.php:142
+#: functions.php:151
 msgctxt "Theme starter content"
 msgid "Espresso"
 msgstr "エスプレッソ"
@@ -135,24 +135,24 @@ msgstr "配色"
 msgid "Default Header Image"
 msgstr "デフォルトのヘッダー画像"
 
-#: functions.php:296
+#: functions.php:335
 msgid "Footer 2"
 msgstr "フッター2"
 
-#: functions.php:288 functions.php:298
+#: functions.php:327 functions.php:337
 msgid "Add widgets here to appear in your footer."
 msgstr "フッターに表示させるにはここにウィジェットを追加してください。"
 
-#: functions.php:286
+#: functions.php:325
 msgid "Footer 1"
 msgstr "フッター1"
 
-#: functions.php:230
+#: functions.php:269
 msgctxt "Libre Franklin font: on or off"
 msgid "on"
 msgstr "off"
 
-#: functions.php:60 functions.php:170
+#: functions.php:63 functions.php:183
 #: template-parts/navigation/navigation-top.php:12
 msgid "Top Menu"
 msgstr "トップメニュー"
@@ -209,7 +209,7 @@ msgid "Search Results for: %s"
 msgstr "「%s」の検索結果"
 
 #. translators: %s: Name of current post
-#: functions.php:323 template-parts/page/content-front-page-panels.php:43
+#: functions.php:362 template-parts/page/content-front-page-panels.php:43
 #: template-parts/page/content-front-page.php:44
 #: template-parts/post/content-audio.php:80
 #: template-parts/post/content-gallery.php:66
@@ -247,23 +247,23 @@ msgstr "メニュー"
 msgid "Skip to content"
 msgstr "コンテンツへスキップ"
 
-#: functions.php:406
+#: functions.php:445
 msgid "Collapse child menu"
 msgstr "サブメニューを閉じる"
 
-#: functions.php:405
+#: functions.php:444
 msgid "Expand child menu"
 msgstr "サブメニューを展開"
 
-#: functions.php:278
+#: functions.php:317
 msgid "Add widgets here to appear in your sidebar."
 msgstr "サイドバーに表示させるにはここにウィジェットを追加してください。"
 
-#: functions.php:276
+#: functions.php:315
 msgid "Sidebar"
 msgstr "サイドバー"
 
-#: functions.php:61 functions.php:179
+#: functions.php:64 functions.php:194
 msgid "Social Links Menu"
 msgstr "﻿ソーシャルリンクメニュー"
 
@@ -271,7 +271,7 @@ msgstr "﻿ソーシャルリンクメニュー"
 msgid "Proudly powered by %s"
 msgstr "Proudly powered by %s"
 
-#. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.0)  #-#-#-#-#
+#. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.1)  #-#-#-#-#
 #. Author URI of the plugin/theme
 #: template-parts/footer/site-info.php:13
 msgid "https://wordpress.org/"
