@@ -10,7 +10,7 @@ This project is a template for installing and running [WordPress](http://wordpre
 
 Use the Deploy to Heroku button, or use the old fashioned way described below.
 
-[htpasswd Generator is here.](http://www.macminiosx.com/generator/htpasswd_generator.html)
+[htpasswd Generator is here.](https://macminiosx.github.io/passwd-generator/)
 
 <a href="https://heroku.com/deploy?template=https://github.com/macminiosx/wordpress-ja-pg4wp2-heroku/tree/master">
   <img src="https://www.herokucdn.com/deploy/button.png" alt="Deploy">
