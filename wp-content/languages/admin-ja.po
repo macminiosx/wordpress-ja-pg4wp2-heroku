@@ -1642,7 +1642,7 @@ msgstr "項目一覧ナビゲーション"
 msgid "Filter items list"
 msgstr "項目一覧の絞り込み"
 
-#: wp-admin/includes/class-wp-press-this.php:1483
+#: wp-admin/includes/class-wp-press-this.php:1521
 msgid "Saving&hellip;"
 msgstr "保存中&hellip;"
 
@@ -1923,11 +1923,11 @@ msgstr[0] "この投稿者による %s 件の投稿"
 msgid "Live Preview &#8220;%s&#8221;"
 msgstr "&#8220;%s&#8221; をライブプレビュー"
 
-#: wp-admin/includes/class-wp-press-this.php:1486
+#: wp-admin/includes/class-wp-press-this.php:1524
 msgid "More actions"
 msgstr "その他の操作"
 
-#: wp-admin/includes/class-wp-press-this.php:223
+#: wp-admin/includes/class-wp-press-this.php:241
 msgid "This category already exists."
 msgstr "このカテゴリーは既に存在します。"
 
@@ -2252,7 +2252,7 @@ msgstr "https://wpdocs.osdn.jp/Introduction_to_Blogging#Managing_Comments"
 msgid "The <a href=\"https://codex.wordpress.org/Glossary#Character_set\">character encoding</a> of your site (UTF-8 is recommended)"
 msgstr "サイトの<a href=\"https://wpdocs.osdn.jp/Glossary#Character_Set\">文字セット</a> (UTF-8 を推奨)"
 
-#: wp-admin/includes/class-wp-press-this.php:1491
+#: wp-admin/includes/class-wp-press-this.php:1529
 msgid "Standard Editor"
 msgstr "標準エディター"
 
@@ -2370,7 +2370,7 @@ msgstr "以下のプラグインを削除しようとしています:"
 msgid "Delete Plugins"
 msgstr "プラグインの削除"
 
-#: wp-admin/includes/class-wp-press-this.php:1333
+#: wp-admin/includes/class-wp-press-this.php:1363
 msgid "Hide post options"
 msgstr "投稿オプションを隠す"
 
@@ -2495,67 +2495,67 @@ msgctxt "revision date short format"
 msgid "j M @ H:i"
 msgstr "n月j日 @ H:i"
 
-#: wp-admin/includes/class-wp-press-this.php:241
+#: wp-admin/includes/class-wp-press-this.php:259
 msgid "This category cannot be added. Please change the name and try again."
 msgstr "このカテゴリーは追加できません。名前を変えて再度お試しください。"
 
-#: wp-admin/includes/class-wp-press-this.php:248
+#: wp-admin/includes/class-wp-press-this.php:266
 msgid "Error while adding the category. Please try again later."
 msgstr "カテゴリーを追加中にエラーが発生しました。後ほど再度お試しください。"
 
-#: wp-admin/includes/class-wp-press-this.php:859
+#: wp-admin/includes/class-wp-press-this.php:883
 msgid "Toggle add category"
 msgstr "カテゴリーを追加"
 
-#: wp-admin/includes/class-wp-press-this.php:884
+#: wp-admin/includes/class-wp-press-this.php:908
 msgid "Search categories by name"
 msgstr "カテゴリーを名前で検索"
 
-#: wp-admin/includes/class-wp-press-this.php:886
+#: wp-admin/includes/class-wp-press-this.php:910
 msgid "Search categories"
 msgstr "カテゴリーを検索"
 
-#: wp-admin/includes/class-wp-press-this.php:1138
+#: wp-admin/includes/class-wp-press-this.php:1162
 msgctxt "Used in Press This to indicate where the content comes from."
 msgid "Source:"
 msgstr "情報源:"
 
-#: wp-admin/includes/class-wp-press-this.php:1331
+#: wp-admin/includes/class-wp-press-this.php:1361
 msgid "Show post options"
 msgstr "投稿オプションを表示"
 
-#: wp-admin/includes/class-wp-press-this.php:1244
+#: wp-admin/includes/class-wp-press-this.php:1268
 msgid "Press This!"
 msgstr "Press This!"
 
-#: wp-admin/includes/class-wp-press-this.php:1339
+#: wp-admin/includes/class-wp-press-this.php:1369
 msgid "Scan site for content"
 msgstr "サイトのコンテンツをスキャン"
 
-#: wp-admin/includes/class-wp-press-this.php:1340
+#: wp-admin/includes/class-wp-press-this.php:1370
 msgid "Enter a URL to scan"
 msgstr "スキャンする URL を入力"
 
-#: wp-admin/includes/class-wp-press-this.php:1341
+#: wp-admin/includes/class-wp-press-this.php:1371
 msgid "Scan"
 msgstr "スキャン"
 
-#: wp-admin/includes/class-wp-press-this.php:1367
+#: wp-admin/includes/class-wp-press-this.php:1397
 msgid "You should upgrade <a href=\"%s\" target=\"_blank\">your bookmarklet</a> to the latest version!"
 msgstr "<a href=\"%s\" target=\"_blank\">ブックマークレット</a>を最新バージョンにアップグレードしてください。"
 
-#: wp-admin/includes/class-wp-press-this.php:1376
-#: wp-admin/includes/class-wp-press-this.php:1377
+#: wp-admin/includes/class-wp-press-this.php:1406
+#: wp-admin/includes/class-wp-press-this.php:1407
 msgid "Post title"
 msgstr "投稿タイトル"
 
-#: wp-admin/includes/class-wp-press-this.php:1381
+#: wp-admin/includes/class-wp-press-this.php:1411
 msgid "Suggested media"
 msgstr "メディアの提案"
 
-#: wp-admin/includes/class-wp-press-this.php:1444
-#: wp-admin/includes/class-wp-press-this.php:1454
-#: wp-admin/includes/class-wp-press-this.php:1463
+#: wp-admin/includes/class-wp-press-this.php:1478
+#: wp-admin/includes/class-wp-press-this.php:1489
+#: wp-admin/includes/class-wp-press-this.php:1500
 msgid "Back to post options"
 msgstr "投稿オプションに戻る"
 
@@ -6109,7 +6109,7 @@ msgstr ""
 msgid "Featured Images"
 msgstr "アイキャッチ画像"
 
-#: wp-admin/includes/class-wp-press-this.php:823
+#: wp-admin/includes/class-wp-press-this.php:841
 #: wp-admin/includes/meta-boxes.php:385 wp-admin/includes/theme.php:263
 msgid "Post Formats"
 msgstr "投稿フォーマット"
@@ -10038,7 +10038,7 @@ msgstr "このコメントを承認しない"
 msgid "Approve this comment"
 msgstr "このコメントを承認"
 
-#: wp-admin/includes/class-wp-press-this.php:1482
+#: wp-admin/includes/class-wp-press-this.php:1520
 #: wp-admin/includes/meta-boxes.php:269 wp-admin/includes/meta-boxes.php:270
 msgid "Submit for Review"
 msgstr "レビュー待ちとして送信"
