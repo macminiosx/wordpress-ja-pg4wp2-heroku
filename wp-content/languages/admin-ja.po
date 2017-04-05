@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 4.7.x - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-02-03 01:42:19+0000\n"
+"PO-Revision-Date: 2017-03-29 14:23:06+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -927,7 +927,7 @@ msgstr "世界標準時 (%1$s) は %2$s です。"
 msgid "There is a pending change of the admin email to %s."
 msgstr "%s への管理者メールアドレス変更が承認待ち中です。"
 
-#: wp-admin/install.php:390
+#: wp-admin/install.php:376
 msgid "WordPress has been installed. Thank you, and enjoy!"
 msgstr "WordPress をインストールしました。ありがとうございます。それではお楽しみください !"
 
@@ -3695,19 +3695,19 @@ msgstr "メニューはテーマ内で定義された位置に表示できます
 msgid "Your theme does not natively support menus, but you can use them in sidebars by adding a &#8220;Custom Menu&#8221; widget on the <a href=\"%s\">Widgets</a> screen."
 msgstr "現在お使いのテーマはカスタムメニュー機能に対応していませんが、<a href=\"%s\">ウィジェット</a>画面でサイドバーに「カスタムメニュー」を追加できます。"
 
-#: wp-admin/install.php:369
+#: wp-admin/install.php:365
 msgid "Sorry, that isn&#8217;t a valid email address. Email addresses look like <code>username@example.com</code>."
 msgstr "有効なメールアドレスではないようです。メールアドレスは <code>username@example.com</code> のような形式です。"
 
-#: wp-admin/install.php:364
+#: wp-admin/install.php:361
 msgid "You must provide an email address."
 msgstr "メールアドレスを入力する必要があります。"
 
-#: wp-admin/install.php:359
+#: wp-admin/install.php:357
 msgid "Your passwords do not match. Please try again."
 msgstr "パスワードが一致しません。もう一度やり直してください。"
 
-#: wp-admin/install.php:354
+#: wp-admin/install.php:353
 msgid "The username you provided has invalid characters."
 msgstr "ユーザー名に無効な文字が含まれています。"
 
@@ -6652,7 +6652,7 @@ msgstr "https://ja.wordpress.org/feed/"
 
 #: wp-admin/includes/dashboard.php:1088
 msgid "https://wordpress.org/news/"
-msgstr "https://ja.wordpress.org/#blog"
+msgstr "https://ja.wordpress.org/news"
 
 #: wp-admin/options-discussion.php:68
 msgid "(Signup has been disabled. Only members of this site can comment.)"
@@ -8698,7 +8698,7 @@ msgstr "新規追加"
 msgid "Add New Link"
 msgstr "新規リンクの追加"
 
-#: wp-admin/install.php:388
+#: wp-admin/install.php:374
 msgid "Success!"
 msgstr "成功しました !"
 
