@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 4.7.x package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-03-10 22:54:57+0000\n"
+"PO-Revision-Date: 2017-05-02 05:13:51+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -5916,12 +5916,6 @@ msgstr "ミュート切り替え"
 msgid "Unmute"
 msgstr "ミュート解除"
 
-#. translators: Time difference between two dates, in weeks. 1: Number of weeks
-#: wp-includes/formatting.php:3245
-msgid "%s week"
-msgid_plural "%s weeks"
-msgstr[0] "%s週"
-
 #. translators: Time difference between two dates, in months. 1: Number of
 #. months
 #: wp-includes/formatting.php:3251
@@ -5934,6 +5928,12 @@ msgstr[0] "%sか月"
 msgid "%s year"
 msgid_plural "%s years"
 msgstr[0] "%s年"
+
+#. translators: Time difference between two dates, in weeks. 1: Number of weeks
+#: wp-includes/formatting.php:3245
+msgid "%s week"
+msgid_plural "%s weeks"
+msgstr[0] "%s週間"
 
 #. translators: %d: ID of a post
 #: wp-includes/class-walker-page-dropdown.php:74

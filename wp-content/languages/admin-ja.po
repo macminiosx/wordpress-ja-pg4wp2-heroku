@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 4.7.x - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-03-29 14:23:06+0000\n"
+"PO-Revision-Date: 2017-05-01 12:35:08+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -4662,7 +4662,7 @@ msgstr "トリミングをせず、このまま画像を公開する"
 
 #: wp-admin/includes/meta-boxes.php:587
 msgid "https://codex.wordpress.org/Excerpt"
-msgstr "https://wpdocs.osdn.jp/Embeds"
+msgstr "https://wpdocs.osdn.jp/抜粋"
 
 #: wp-admin/custom-background.php:327 wp-admin/custom-header.php:589
 msgid "Or choose an image from your media library:"
