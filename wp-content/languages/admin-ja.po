@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 4.8.x - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-06-13 00:48:04+0000\n"
+"PO-Revision-Date: 2017-06-25 11:16:15+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -225,6 +225,10 @@ msgstr "開発者をより一層ハッピーに %s"
 #: wp-admin/users.php:167 wp-admin/users.php:207
 msgid "Sorry, you are not allowed to delete users."
 msgstr "ユーザーを削除する権限がありません。"
+
+#: wp-admin/user-new.php:23 wp-admin/user-new.php:117
+msgid "Sorry, you are not allowed to create users."
+msgstr "ユーザーを作成する権限がありません。"
 
 #: wp-admin/customize.php:163
 msgid "The Customizer allows you to preview changes to your site before publishing them. You can navigate to different pages on your site within the preview. Edit shortcuts are shown for some editable elements."
@@ -466,9 +470,9 @@ msgstr "インストール済みプラグインの検索ではプラグイン名
 msgid "Custom Logo"
 msgstr "カスタムロゴ"
 
-#: wp-admin/user-new.php:23 wp-admin/user-new.php:117
-msgid "Sorry, you are not allowed to create users."
-msgstr "ユーザーを作成する権限がありません。"
+#: wp-admin/users.php:317 wp-admin/users.php:348
+msgid "Sorry, you are not allowed to remove users."
+msgstr "ユーザーを削除する権限がありません。"
 
 #: wp-admin/user-new.php:16 wp-admin/user-new.php:56
 msgid "Sorry, you are not allowed to add users to this network."
@@ -611,7 +615,7 @@ msgstr "https://wpdocs.osdn.jp/Version_%s"
 #. to network admin, 4: accessibility text
 #: wp-admin/includes/update.php:244
 msgid "<a href=\"%1$s\">WordPress %2$s</a> is available! <a href=\"%3$s\" aria-label=\"%4$s\">Please update now</a>."
-msgstr "<a href=\"%1$s\">WordPress %2$s</a> が利用可能です! <a href=\"%3$s\" aria-label=\"%4$s\">今すぐ更新してください</a>。"
+msgstr "<a href=\"%1$s\">WordPress %2$s</a> が利用可能です ! <a href=\"%3$s\" aria-label=\"%4$s\">今すぐ更新してください</a>。"
 
 #: wp-admin/includes/theme.php:280
 msgid "Portfolio"
@@ -660,10 +664,6 @@ msgstr "現在のエディターの内容を最新のバックアップで置き
 #: wp-admin/includes/template.php:1523
 msgid "Close media attachment panel"
 msgstr "メディア添付パネルを閉じる"
-
-#: wp-admin/users.php:317 wp-admin/users.php:348
-msgid "Sorry, you are not allowed to remove users."
-msgstr "ユーザーを削除する権限がありません。"
 
 #: wp-admin/includes/ms.php:1096
 msgid "Info"
@@ -1265,7 +1265,7 @@ msgstr "(現在の設定: %s)"
 #. translators: %s: site link
 #: wp-admin/includes/schema.php:1013 wp-admin/includes/upgrade.php:163
 msgid "Welcome to %s. This is your first post. Edit or delete it, then start blogging!"
-msgstr "%s へようこそ。これは最初の投稿です。編集もしくは削除してブログを始めてください！"
+msgstr "%s へようこそ。これは最初の投稿です。編集もしくは削除してブログを始めてください !"
 
 #. translators: %s: WordPress version number
 #: wp-admin/about.php:242
@@ -1595,7 +1595,7 @@ msgstr "ユーザーを選択"
 #. translators: user login
 #: wp-admin/includes/ms.php:977
 msgid "What should be done with content owned by %s?"
-msgstr "%s が所有しているコンテンツをどう処理しますか？"
+msgstr "%s が所有しているコンテンツをどう処理しますか ?"
 
 #: wp-admin/includes/ms.php:964
 msgid "Warning! User cannot be deleted. The user %s is a network administrator."
@@ -2064,7 +2064,7 @@ msgstr "<a href=\"https://wpdocs.osdn.jp/Appearance_Widgets_SubPanel\">ウィジ
 
 #: wp-admin/index.php:98
 msgid "<a href=\"https://codex.wordpress.org/Dashboard_Screen\">Documentation on Dashboard</a>"
-msgstr "<a href=\"https://wpdocs.osdn.jp/Dashboard_Screen#Dashboard\">ダッシュボードの解説</a>"
+msgstr "<a href=\"https://wpdocs.osdn.jp/Dashboard_Screen\">ダッシュボードの解説</a>"
 
 #: wp-admin/edit-tags.php:268
 msgid "<a href=\"https://codex.wordpress.org/Links_Link_Categories_Screen\">Documentation on Link Categories</a>"
@@ -2382,7 +2382,7 @@ msgstr[0] "%s人のユーザーを削除しました。"
 
 #: wp-admin/users.php:269
 msgid "What should be done with content owned by these users?"
-msgstr "これらのユーザーのコンテンツをどのように処理しますか？"
+msgstr "これらのユーザーのコンテンツをどのように処理しますか ?"
 
 #: wp-admin/users.php:242
 msgid "You have specified these users for deletion:"
@@ -2462,7 +2462,7 @@ msgstr ""
 "再度の確認はありませんので、本当に削除したい場合のみクリックしてください:\n"
 "###URL_DELETE###\n"
 "\n"
-"サイトを削除するのであれば、またいつか新しいサイトを開設してください！\n"
+"サイトを削除するのであれば、またいつか新しいサイトを開設してください !\n"
 "（でも現在のサイトとユーザー名が永遠になくなってしまうことはお忘れなく。）\n"
 "\n"
 "サイトのご利用ありがとうございました。\n"
