@@ -26,39 +26,39 @@ msgctxt "start of week"
 msgid "1"
 msgstr "1"
 
-#: wp-admin/about.php:196
+#: wp-admin/about.php:218
 msgid "New capabilities have been introduced to 4.8 with an eye towards removing calls to <code>is_super_admin()</code>. Additionally, new hooks and tweaks to more granularly control site and user counts per network have been added."
 msgstr "<code>is_super_admin()</code> の呼び出しを削除するため、4.8に新しい権限チェックを導入しました。さらに新フックや、サイト全体またはサイトネットワークごとのユーザーカウントをより細かくコントロールするための調整も追加しました。"
 
-#: wp-admin/about.php:151
+#: wp-admin/about.php:173
 msgid "Being part of the community can help you improve your WordPress skills and network with people you wouldn&#8217;t otherwise meet. Now you can easily find your local events just by logging in to your dashboard and looking at the new Events and News dashboard widget."
 msgstr "コミュニティに参加することで、WordPress スキルを高めたり、普段は出会わない人たちとのネットワークを広めたりできます。これからはダッシュボードにログインして新しい「イベントとニュース」ウィジェットを見るだけで地域のイベントを見つけられるようになりました。"
 
-#: wp-admin/about.php:149
+#: wp-admin/about.php:171
 msgid "This is quickly becoming one of our favorite features. While you are in the dashboard (because you&#8217;re running updates and writing posts, right?) all upcoming WordCamps and WordPress Meetups &mdash; local to you &mdash; will be displayed."
 msgstr "この機能はすでに私たちのお気に入りになりつつあります。更新を行ったり投稿を書いたりする時にダッシュボードにいる間、今後近くで開催予定の WordCamp や勉強会が表示されます。"
 
-#: wp-admin/about.php:147
+#: wp-admin/about.php:169
 msgid "Did you know that WordPress has a thriving offline community with groups meeting regularly in more than 400 cities around the world? WordPress now draws your attention to the events that help you continue improving your WordPress skills, meet friends, and, of course, publish!"
 msgstr "WordPress には、世界400以上の都市で定期的にイベントを行っている活発なオフラインコミュニティがあるのをご存知でしたか ? WordPress スキルを向上し、知り合いを増やし、そしてもちろんコンテンツの作成をし続けるのを助けるイベントに対して、皆さんに関心を持ってもらえるようにしました。"
 
-#: wp-admin/about.php:126
+#: wp-admin/about.php:148
 msgid "Have you ever tried updating a link, or the text around a link, and found you can&#8217;t seem to edit it correctly? When you edit the text after the link, your new text also ends up linked. Or you edit the text in the link, but your text ends up outside of it. This can be frustrating! With link boundaries, a great new feature, the process is streamlined and your links will work well. You’ll be happier. We promise."
 msgstr "リンクやリンク前後のテキストを更新しようとして、うまく編集できなかったことがありませんか。リンクの後に単語を追加しようとして新しいテキストもリンクされてしまったり、リンク内のテキストを増やそうとしたのにリンク外に追加されてしまったり。イライラしますよね。新しいリンク境界機能によってプロセスがスムーズになり、リンクがうまく動作するようになりました。きっとハッピーになってもらえるはずです、お約束します。"
 
-#: wp-admin/about.php:117
+#: wp-admin/about.php:139
 msgid "This feature deserves a parade down the center of town! Rich-text editing capabilities are now native for Text widgets. Add a widget anywhere and format away. Create lists, add emphasis, and quickly and easily insert links. Have fun with your newfound formatting powers, and watch what you can accomplish in a short amount of time."
 msgstr "この機能は大通りでの記念テープカットに値する重要なものです。リッチテキスト編集機能が、テキストウィジェットに標準装備となりました。お好きなところにウィジェットを追加し、テキストの体裁を整えましょう。リストを作成したり、強調を追加したり、簡単にすばやくリンクを挿入したりできます。新しく手に入れた書式設定の機能を楽しんで使ってみてください。短期間で多くのことが実現できるはずです。"
 
-#: wp-admin/about.php:109
+#: wp-admin/about.php:131
 msgid "A welcome video is a great way to humanize the branding of your website. You can now add any video from the Media Library to a sidebar on your site with the new Video widget. Use this to showcase a welcome video to introduce visitors to your site or promote your latest and greatest content."
 msgstr "ウェルカム動画は、より温かみのあるサイトのブランディングを行うのに良い方法です。訪問者の信頼と共感を生み出します。新しい動画ウィジェットを使って、メディアライブラリの動画をサイドバーに追加できるようになりました。"
 
-#: wp-admin/about.php:105
+#: wp-admin/about.php:127
 msgid "Adding an image to a widget is now a simple task that is achievable for any WordPress user without needing to know code. Simply insert your image right within the widget settings. Try adding something like a headshot or a photo of your latest weekend adventure &mdash; and see it appear automatically."
 msgstr "ウィジェットへの画像追加が、WordPress ユーザーの誰もが行えるシンプルな作業となりました。ウィジェット設定内で画像を挿入するだけです。プロフィール画像と簡単な文章を追加すれば、自動的に表示されます。"
 
-#: wp-admin/about.php:50
+#: wp-admin/about.php:72
 msgid "Though some updates seem minor, they&#8217;ve been built by hundreds of contributors with <em>you</em> in mind. Get ready for new features you&#8217;ll welcome like an old friend: link improvements, <em>three</em> new media widgets covering images, audio, and video, an updated text widget that supports visual editing, and an upgraded news section in your dashboard which brings in nearby and upcoming WordPress events."
 msgstr "大きな更新点ばかりではありませんが、ユーザーの皆さんのことを念頭に置いて数百人のコア貢献者とコミッターが開発を行いました。まるで昔からの友達のように歓迎したくなる新機能をお楽しみください。リンクの改善、画像、音声ファイル、動画をカバーする<strong>3つ</strong>のメディアウィジェット、ビジュアルエディター対応のテキストウィジェット更新、近隣で今後開催される WordPress イベントを表示するダッシュボード内のニュースセクションの更新。"
 
@@ -66,59 +66,59 @@ msgstr "大きな更新点ばかりではありませんが、ユーザーの皆
 msgid "Thank you for updating to the latest version! WordPress %s adds more ways for you to express yourself and represent your brand."
 msgstr "最新バージョンへの更新ありがとうございます。WordPress %s は、自分自身やブランドを表現するより多くの方法を追加しました。"
 
-#: wp-admin/about.php:204
+#: wp-admin/about.php:226
 msgid "The introduction of a new base media widget REST API schema to 4.8 opens up possibilities for even more media widgets (like galleries or playlists) in the future. The three new media widgets are powered by a shared base class that covers most of the interactions with the media modal. That class also makes it easier to create new media widgets and paves the way for more to come."
 msgstr "4.8への新しいベースメディアウィジェット REST API スキーマ導入は、将来さらにメディアウィジェット (ギャラリーやプレイリストなど) を追加するための可能性を切り開いてくれます。3つの新メディアウィジェットは、メディアモーダルとのインタラクションをほとんどをカバーする共通したベースクラスによって動いています。さらにこのクラスは、新しいメディアウィジェットの作成をより簡易にし、今後の下準備となります。"
 
-#: wp-admin/about.php:203
+#: wp-admin/about.php:225
 msgid "Media Widgets API"
 msgstr "メディアウィジェット API"
 
-#: wp-admin/about.php:208
+#: wp-admin/about.php:230
 msgid "Rejoice! New responsive breakpoints have been added to the customizer sidebar to make it wider on high-resolution screens. Customizer controls should use percentage-based widths instead of pixels."
 msgstr "高解像度の画面上でカスタマイザーを幅広表示するため、サイドバーに新しいレスポンシブ・ブレークポイントが追加されました。カスタマイザーコントロールは、ピクセルではなくパーセントベースの幅を使うべきです。"
 
-#: wp-admin/about.php:207
+#: wp-admin/about.php:229
 msgid "Customizer Width Variable"
 msgstr "カスタマイザー幅の変数"
 
-#: wp-admin/about.php:200
+#: wp-admin/about.php:222
 msgid "With the addition of TinyMCE to the text widget in 4.8 comes a new JavaScript API for instantiating the editor after page load. This can be used to add an editor instance to any text area, and customize it with buttons and functions. Great for plugin authors!"
 msgstr "4.8のテキストウィジェットへの TinyMCE 追加とともに、ページ読み込み後にエディターをインスタンス化するための新 JavaScript API が含まれました。これは、任意のテキストエリアにエディターインスタンスを追加し、ボタンや機能でカスタマイズするために利用できます。"
 
-#: wp-admin/about.php:199
+#: wp-admin/about.php:221
 msgid "Text-Editor JavaScript API"
 msgstr "テキストエディター JavaScript API"
 
-#: wp-admin/about.php:195
+#: wp-admin/about.php:217
 msgid "Multisite Updates"
 msgstr "マルチサイト更新"
 
-#: wp-admin/about.php:192
+#: wp-admin/about.php:214
 msgid "As fewer and fewer browsers support Silverlight, file formats which require the presence of the Silverlight plugin are being removed from core support. Files will still display as a download link, but will no longer be embedded automatically."
 msgstr "専用プラグインを必須とする Silverlight をサポートするブラウザーが減少しているのに従って、コアでのサポートを終了しました。ファイルは引き続きダウンロードリンクとして表示されますが、自動的に埋め込まれることはありません。"
 
-#: wp-admin/about.php:191
+#: wp-admin/about.php:213
 msgid "Removal of Core Support for WMV and WMA Files"
 msgstr "WMV、WMA ファイルのコアサポート終了"
 
-#: wp-admin/about.php:188
+#: wp-admin/about.php:210
 msgid "New CSS rules mean extraneous content (like &ldquo;Add New&rdquo; links) no longer need to be included in admin-area headings. These panel headings improve the experience for people using assistive technologies."
 msgstr "新 CSS ルールにより、外部コンテンツ (「新規追加」リンクなど) を管理画面の見出しに含めることが必須ではなくなりました。これらのパネル見出しは、支援技術を使っている方に対してアクセシビリティを高めてくれます。"
 
-#: wp-admin/about.php:187
+#: wp-admin/about.php:209
 msgid "More Accessible Admin Panel Headings"
 msgstr "管理パネル見出しのアクセシビリティを向上"
 
-#: wp-admin/about.php:56
+#: wp-admin/about.php:78
 msgid "Exciting Widget Updates"
 msgstr "ワクワクするウィジェットの更新"
 
-#: wp-admin/about.php:49
+#: wp-admin/about.php:71
 msgid "WordPress 4.8 adds some great new features. Gear up for a more intuitive WordPress!"
 msgstr "WordPress 4.8ではいくつかの便利な新機能を追加しました。さらに直感的になった WordPress を使ってみましょう。"
 
-#: wp-admin/about.php:48
+#: wp-admin/about.php:70
 msgid "An Update with You in Mind"
 msgstr "ユーザーを念頭に置いたアップデート"
 
@@ -127,19 +127,19 @@ msgstr "ユーザーを念頭に置いたアップデート"
 msgid "There aren&#8217;t any events scheduled near you at the moment. Would you like to <a href=\"%s\">organize one</a>?"
 msgstr "現在、近くで予定されているイベントはありません。<a href=\"%s\">計画してみませんか</a> ?"
 
-#: wp-admin/about.php:145
+#: wp-admin/about.php:167
 msgid "Nearby WordPress Events"
 msgstr "近隣の WordPress のイベント"
 
-#: wp-admin/about.php:116
+#: wp-admin/about.php:138
 msgid "Rich Text Widget"
 msgstr "リッチテキストウィジェット"
 
-#: wp-admin/about.php:113
+#: wp-admin/about.php:135
 msgid "Are you a podcaster, musician, or avid blogger? Adding a widget with your audio file has never been easier. Upload your audio file to the Media Library, go to the widget settings, select your file, and you&#8217;re ready for listeners. This would be a easy way to add a more personal welcome message, too!"
 msgstr "ポッドキャスト配信者、ミュージシャン、熱心なブロガーの方へ。音声ファイルをウィジェットに追加するのが、これまでになく簡単になりました。メディアライブラリに音声ファイルをアップロードしてウィジェット設定に移動し、ファイルを選択すれば訪問者に聴いてもらえます。こちらも、さらに親密なウェルカムメッセージを追加する良い方法になるはずです。"
 
-#: wp-admin/about.php:125
+#: wp-admin/about.php:147
 msgid "Link Boundaries"
 msgstr "リンク境界"
 
@@ -218,7 +218,7 @@ msgid "Assign a parent term to create a hierarchy. The term Jazz, for example, w
 msgstr "階層化するには親のタームを指定します。例えば「ジャズ」というタームを「ビバップ」や「ビッグバンド」の親として指定します。"
 
 #. translators: %s: smiling face with smiling eyes emoji
-#: wp-admin/about.php:180
+#: wp-admin/about.php:202
 msgid "Even More Developer Happiness %s"
 msgstr "開発者をより一層ハッピーに %s"
 
@@ -1190,16 +1190,16 @@ msgstr "ゴミ箱"
 msgid "The ssh2 PHP extension is available, however, we require the PHP5 function %s"
 msgstr "ssh2 PHP 拡張モジュールが利用可能ですが、PHP5 の関数 %s が必要です。"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:588
+#: wp-admin/includes/class-wp-comments-list-table.php:593
 msgid "Quick edit this comment inline"
 msgstr "このコメントをインラインでクイック編集"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:584
+#: wp-admin/includes/class-wp-comments-list-table.php:589
 #: wp-admin/includes/dashboard.php:634
 msgid "Edit this comment"
 msgstr "このコメントを編集"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:570
+#: wp-admin/includes/class-wp-comments-list-table.php:575
 msgid "Restore this comment from the spam"
 msgstr "このコメントをスパムから復元"
 
@@ -1268,7 +1268,7 @@ msgid "Welcome to %s. This is your first post. Edit or delete it, then start blo
 msgstr "%s へようこそ。これは最初の投稿です。編集もしくは削除してブログを始めてください !"
 
 #. translators: %s: WordPress version number
-#: wp-admin/about.php:242
+#: wp-admin/about.php:264
 msgid "<strong>Version %s</strong> addressed one security issue."
 msgstr "<strong>バージョン %s</strong> ではセキュリティ問題1件に対応しました。"
 
@@ -1285,15 +1285,15 @@ msgstr "<a href=\"%s\">Gravatar</a> でプロフィール画像を変更でき�
 msgid "Profile Picture"
 msgstr "プロフィール写真"
 
-#: wp-admin/about.php:239
+#: wp-admin/about.php:261
 msgid "Maintenance and Security Releases"
 msgstr "メンテナンスとセキュリティのリリース"
 
-#: wp-admin/about.php:236
+#: wp-admin/about.php:258
 msgid "Security Releases"
 msgstr "セキュリティリリース"
 
-#: wp-admin/about.php:233
+#: wp-admin/about.php:255
 msgid "Maintenance Releases"
 msgstr "メンテナンスリリース"
 
@@ -1708,7 +1708,7 @@ msgstr "承認待ちのコメントはありません"
 msgid "Failed to initialize a SFTP subsystem session with the SSH2 Server %s"
 msgstr "SSH2 サーバー %s の SFTP サブシステムセッションを初期化できませんでした"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:405
+#: wp-admin/includes/class-wp-comments-list-table.php:410
 msgctxt "column name"
 msgid "Submitted On"
 msgstr "投稿日時"
@@ -1859,7 +1859,7 @@ msgstr "現在のテーマは、カスタムヘッダー画像のアップロー
 
 #. translators: %s: comment link
 #: wp-admin/comment.php:187
-#: wp-admin/includes/class-wp-comments-list-table.php:648
+#: wp-admin/includes/class-wp-comments-list-table.php:653
 msgid "In reply to %s."
 msgstr "%s への返信"
 
@@ -1951,7 +1951,7 @@ msgstr "パスワード確認"
 msgid "While you are editing your %1$s file, take a moment to make sure you have all 8 keys and that they are unique. You can generate these using the <a href=\"%2$s\">WordPress.org secret key service</a>."
 msgstr "%1$s ファイルを編集する際は、8つのすべてのキーがユニーク(一意)であることを確認してください。これらのキーは <a href=\"%2$s\">WordPress.org 秘密鍵サービス</a>を使用して生成することもできます。"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:616
+#: wp-admin/includes/class-wp-comments-list-table.php:621
 #: wp-admin/includes/class-wp-list-table.php:523
 #: wp-admin/includes/class-wp-list-table.php:1324
 #: wp-admin/includes/update.php:687
@@ -2733,7 +2733,7 @@ msgstr "Y年m月d日 a g:i:s"
 
 #. translators: column name or table row header
 #: wp-admin/comment.php:169
-#: wp-admin/includes/class-wp-comments-list-table.php:402
+#: wp-admin/includes/class-wp-comments-list-table.php:407
 msgid "In Response To"
 msgstr "コメント先"
 
@@ -2853,7 +2853,7 @@ msgstr "%s をログアウトしました。"
 msgid "You are now logged out everywhere else."
 msgstr "他のすべてでログアウトしました。"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:327
+#: wp-admin/includes/class-wp-comments-list-table.php:332
 msgid "Filter by comment type"
 msgstr "コメントの種類で絞り込み"
 
@@ -3133,7 +3133,7 @@ msgstr "元の画像のサイズ比率を保ったまま縮尺を変更できま
 msgid "To crop the image, click on it and drag to make your selection."
 msgstr "画像を切り抜くには、画像上をクリックしてからドラッグで範囲を選択してください。"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:329
+#: wp-admin/includes/class-wp-comments-list-table.php:334
 msgid "All comment types"
 msgstr "すべてのコメントタイプ"
 
@@ -4661,7 +4661,7 @@ msgstr "<a href=\"%s\">タグ・カテゴリー変換ツール</a>を使って�
 msgid "Select %s"
 msgstr "%sを選択"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:627
+#: wp-admin/includes/class-wp-comments-list-table.php:632
 msgid "Select comment"
 msgstr "コメントを選択"
 
@@ -4883,7 +4883,7 @@ msgid "%s ago"
 msgstr "%s前"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:300
-#: wp-admin/includes/class-wp-comments-list-table.php:574
+#: wp-admin/includes/class-wp-comments-list-table.php:579
 #: wp-admin/includes/class-wp-media-list-table.php:144
 #: wp-admin/includes/class-wp-media-list-table.php:715
 #: wp-admin/includes/class-wp-posts-list-table.php:397
@@ -5352,26 +5352,26 @@ msgid "Contributing Developers"
 msgstr "貢献開発者"
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
-#: wp-admin/about.php:247
+#: wp-admin/about.php:52 wp-admin/about.php:269
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "<strong>バージョン %1$s</strong> では%2$s個のバグを修正しました。"
 
 #. translators: 1: WordPress version number, 2: plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:255
+#: wp-admin/about.php:277
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "<strong>バージョン %1$s</strong> はいくつかのセキュリティ問題に対応し、%2$s個のバグを修正しました。"
 
 #. translators: %s: Codex URL
-#: wp-admin/about.php:259
+#: wp-admin/about.php:63 wp-admin/about.php:281
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "詳しくは<a href=\"%s\">リリースノート</a>をご覧ください。"
 
 #. translators: 1: WordPress version number, 2: plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:251
+#: wp-admin/about.php:273
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "<strong>バージョン %1$s</strong> はセキュリティ問題に対応し、%2$s個のバグを修正しました。"
@@ -5381,15 +5381,15 @@ msgid "Welcome to your WordPress Dashboard! This is the screen you will see when
 msgstr "WordPress のダッシュボードへようこそ ! これはサイトにログインすると表示される画面で、ここから WordPress のすべてのサイト管理機能へアクセスできます。どの画面にいても画面のタイトルの上にあるヘルプタブをクリックすればヘルプ情報を得られます。"
 
 #. translators: %s: WordPress version number
-#: wp-admin/about.php:244
+#: wp-admin/about.php:266
 msgid "<strong>Version %s</strong> addressed some security issues."
 msgstr "<strong>バージョン %s</strong> では複数のセキュリティ問題に対応しました。"
 
-#: wp-admin/about.php:232
+#: wp-admin/about.php:47 wp-admin/about.php:254
 msgid "Maintenance Release"
 msgstr "メンテナンスリリース"
 
-#: wp-admin/about.php:235
+#: wp-admin/about.php:257
 msgid "Security Release"
 msgstr "セキュリティリリース"
 
@@ -5397,7 +5397,7 @@ msgstr "セキュリティリリース"
 msgid "What&#8217;s New"
 msgstr "新着情報"
 
-#: wp-admin/about.php:238
+#: wp-admin/about.php:260
 msgid "Maintenance and Security Release"
 msgstr "メンテナンスとセキュリティのリリース"
 
@@ -5409,7 +5409,7 @@ msgstr "この画面ではパーマリンク構造を選択できます。共通
 msgid "Welcome to WordPress %1$s. <a href=\"%2$s\">Learn more</a>."
 msgstr "WordPress %1$s へようこそ。<a href=\"%2$s\">詳細を読む</a>。"
 
-#: wp-admin/about.php:218
+#: wp-admin/about.php:240
 msgid "Return to Updates"
 msgstr "更新ページへ戻る"
 
@@ -5689,11 +5689,11 @@ msgstr "add_meta_box() を使用するために wp-admin/includes/template.php �
 msgid "Welcome to WordPress %s"
 msgstr "WordPress %s へようこそ"
 
-#: wp-admin/about.php:218
+#: wp-admin/about.php:240
 msgid "Return to Dashboard &rarr; Updates"
 msgstr "ダッシュボード &rarr; 更新へ戻る"
 
-#: wp-admin/about.php:221
+#: wp-admin/about.php:243
 msgid "Go to Dashboard &rarr; Home"
 msgstr "ダッシュボード &rarr; ホームへ移動"
 
@@ -7067,12 +7067,12 @@ msgstr "ヘッダー画像のトリミング"
 msgid "Default Images"
 msgstr "デフォルト画像"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:578
+#: wp-admin/includes/class-wp-comments-list-table.php:583
 #: wp-admin/includes/dashboard.php:639
 msgid "Delete this comment permanently"
 msgstr "このコメントを完全に削除"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:574
+#: wp-admin/includes/class-wp-comments-list-table.php:579
 msgid "Restore this comment from the Trash"
 msgstr "このコメントをゴミ箱から復元"
 
@@ -7183,7 +7183,7 @@ msgid "You have version %1$s installed. Update to %2$s."
 msgstr "現在お使いのバージョンは %1$s です。%2$s に更新します。"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:302
-#: wp-admin/includes/class-wp-comments-list-table.php:570
+#: wp-admin/includes/class-wp-comments-list-table.php:575
 msgctxt "comment"
 msgid "Not Spam"
 msgstr "スパム解除"
@@ -7555,7 +7555,7 @@ msgstr "すべて表示"
 msgid "Please enter a valid menu name."
 msgstr "メニュー名を入力してください。"
 
-#: wp-admin/about.php:221
+#: wp-admin/about.php:243
 msgid "Go to Dashboard"
 msgstr "ダッシュボードへ移動"
 
@@ -9062,7 +9062,7 @@ msgstr "表示"
 msgid "Relationship"
 msgstr "関係"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:398
+#: wp-admin/includes/class-wp-comments-list-table.php:403
 #: wp-admin/includes/class-wp-post-comments-list-table.php:28
 msgctxt "column name"
 msgid "Comment"
@@ -9086,7 +9086,7 @@ msgctxt "column name"
 msgid "Title"
 msgstr "タイトル"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:588
+#: wp-admin/includes/class-wp-comments-list-table.php:593
 #: wp-admin/includes/class-wp-posts-list-table.php:1253
 #: wp-admin/includes/class-wp-terms-list-table.php:449
 msgid "Quick&nbsp;Edit"
@@ -10013,36 +10013,36 @@ msgstr "[承認待ち]"
 msgid "From %1$s on %2$s %3$s"
 msgstr "%2$s に %1$s より %3$s"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:580
+#: wp-admin/includes/class-wp-comments-list-table.php:585
 #: wp-admin/includes/dashboard.php:641
 msgid "Move this comment to the Trash"
 msgstr "このコメントをゴミ箱へ移動"
 
 #. translators: mark as spam link
-#: wp-admin/includes/class-wp-comments-list-table.php:568
+#: wp-admin/includes/class-wp-comments-list-table.php:573
 #: wp-admin/includes/dashboard.php:636
 msgctxt "verb"
 msgid "Spam"
 msgstr "スパム"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:568
+#: wp-admin/includes/class-wp-comments-list-table.php:573
 #: wp-admin/includes/dashboard.php:636
 msgid "Mark this comment as spam"
 msgstr "このコメントをスパムとしてマーク"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:590
+#: wp-admin/includes/class-wp-comments-list-table.php:595
 #: wp-admin/includes/dashboard.php:635
 msgid "Reply to this comment"
 msgstr "このコメントに返信する"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:558
-#: wp-admin/includes/class-wp-comments-list-table.php:564
+#: wp-admin/includes/class-wp-comments-list-table.php:563
+#: wp-admin/includes/class-wp-comments-list-table.php:569
 #: wp-admin/includes/dashboard.php:633
 msgid "Unapprove this comment"
 msgstr "このコメントを承認しない"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:560
-#: wp-admin/includes/class-wp-comments-list-table.php:563
+#: wp-admin/includes/class-wp-comments-list-table.php:565
+#: wp-admin/includes/class-wp-comments-list-table.php:568
 #: wp-admin/includes/dashboard.php:632
 msgid "Approve this comment"
 msgstr "このコメントを承認"
@@ -10593,24 +10593,24 @@ msgstr "カスタムフィールドを更新しました。"
 msgid "No comments found."
 msgstr "コメントはありません。"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:359
+#: wp-admin/includes/class-wp-comments-list-table.php:364
 #: wp-admin/includes/class-wp-media-list-table.php:181
 #: wp-admin/includes/class-wp-posts-list-table.php:493
 msgid "Empty Trash"
 msgstr "ゴミ箱を空にする"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:359
+#: wp-admin/includes/class-wp-comments-list-table.php:364
 msgid "Empty Spam"
 msgstr "スパムをすべて削除"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:354
+#: wp-admin/includes/class-wp-comments-list-table.php:359
 #: wp-admin/includes/class-wp-links-list-table.php:115
 #: wp-admin/includes/class-wp-media-list-table.php:177
 #: wp-admin/includes/class-wp-posts-list-table.php:488
 msgid "Filter"
 msgstr "絞り込み検索"
 
-#: wp-admin/includes/class-wp-comments-list-table.php:340
+#: wp-admin/includes/class-wp-comments-list-table.php:345
 #: wp-admin/includes/class-wp-posts-list-table.php:1612
 msgid "Pings"
 msgstr "トラックバック/ピンバック"
@@ -10623,15 +10623,15 @@ msgid "Move to Trash"
 msgstr "ゴミ箱へ移動"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:295
-#: wp-admin/includes/class-wp-comments-list-table.php:560
-#: wp-admin/includes/class-wp-comments-list-table.php:563
+#: wp-admin/includes/class-wp-comments-list-table.php:565
+#: wp-admin/includes/class-wp-comments-list-table.php:568
 #: wp-admin/includes/dashboard.php:632
 msgid "Approve"
 msgstr "承認する"
 
 #: wp-admin/includes/class-wp-comments-list-table.php:293
-#: wp-admin/includes/class-wp-comments-list-table.php:558
-#: wp-admin/includes/class-wp-comments-list-table.php:564
+#: wp-admin/includes/class-wp-comments-list-table.php:563
+#: wp-admin/includes/class-wp-comments-list-table.php:569
 #: wp-admin/includes/dashboard.php:633
 msgid "Unapprove"
 msgstr "承認しない"
