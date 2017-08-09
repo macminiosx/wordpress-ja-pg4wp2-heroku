@@ -123,21 +123,21 @@ jQuery(function() {
   };  
 
   function register_edit_image() {
-    var buttons = jQuery('#wp_editbtns');    
+    var buttons = jQuery('.mce-toolbar-grp.mce-inline-toolbar-grp.mce-container.mce-panel');
     if (buttons.length > 0) {
       var img = jQuery('<img />').attr({src: xdmConfig.data("base")+"/images/edit_icon.png" , id: "cld_editbtn", width: "24", height: "24", title: "Cloudinary Edit Image"}).appendTo(buttons);
-      img.mousedown(function() {                             	
+      img.mousedown(function() {
       	var html = tinyMCE.activeEditor.selection.getContent({format : 'html'});
-      	jQuery(this).parents('#wp_editbtns').hide();
+      	jQuery(this).parents('.mce-toolbar-grp.mce-inline-toolbar-grp.mce-container.mce-panel').hide();
       		controller.socket.postMessage(JSON.stringify({
           message: "edit_image",
           html: html
-        }));                
+        }));
         update_window_dimensions();
-        jQuery('#cloudinary-library').show();        
+        jQuery('#cloudinary-library').show();
       });
     } else {
-      setTimeout(register_edit_image, 10);  
+      setTimeout(register_edit_image, 10);
     }
   }
   if (typeof(tinyMCE) != 'undefined')
