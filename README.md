@@ -81,7 +81,7 @@ Store unique keys and salts in Heroku environment variables. Wordpress can provi
 
 Create .htpasswd
 
-    $ echo "USERNAME:CRYPT PASSWOER" > .htpasswd
+    $ echo "USERNAME:CRYPT PASSWORD" > .htpasswd
 
 Deploy to Heroku
 
