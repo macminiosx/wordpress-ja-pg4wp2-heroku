@@ -26,37 +26,37 @@ msgctxt "start of week"
 msgid "1"
 msgstr "1"
 
-#: wp-admin/about.php:222
+#: wp-admin/about.php:244
 msgid "Improvements to Roles and Capabilities"
 msgstr "ユーザーの種類と権限の改善"
 
-#: wp-admin/about.php:223
+#: wp-admin/about.php:245
 msgid "New capabilities have been introduced that allow granular management of plugins and translation files. In addition, the site switching process in multisite has been fine-tuned to update the available roles and capabilities in a more reliable and coherent way."
 msgstr "新しい権限を導入し、プラグインや翻訳ファイルをきめ細かく管理できるようになりました。また、より信頼性の高い、一貫性のある方法で、利用可能なユーザーの種類と権限を更新するように、マルチサイトにおけるサイト切り換えプロセスも微調整しています。"
 
-#: wp-admin/about.php:219
+#: wp-admin/about.php:241
 msgid "WordPress 4.9 includes an upgraded version of MediaElement.js, which removes dependencies on jQuery, improves accessibility, modernizes the UI, and fixes many bugs."
 msgstr "WordPress 4.9 には MediaElement.js のアップグレード版が含まれます。jQuery への依存がなくなり、アクセシビリティが改善され、UI がモダンになり、多くのバグが修正されました。"
 
-#: wp-admin/about.php:218
+#: wp-admin/about.php:240
 msgid "MediaElement.js upgraded to 4.2.6"
 msgstr "MediaElement.js 4.2.6へのアップグレード"
 
-#: wp-admin/about.php:215
+#: wp-admin/about.php:237
 msgid "We&#8217;ve introduced a new code editing library, CodeMirror, for use within core. Use it to improve any code writing or editing experiences within your plugins, like CSS or JavaScript include fields."
 msgstr "コア内部で使用できる新しいコード編集ライブラリ CodeMirror を導入しました。CSS や JavaScript をインクルードして作成した入力フィールドのように、プラグインでのコーディングや編集の体験を改善します。"
 
-#: wp-admin/about.php:214
+#: wp-admin/about.php:236
 msgid "CodeMirror available for use in your themes and plugins"
 msgstr "テーマとプラグインで CodeMirror が利用可能に"
 
 #. translators: %s:
 #. https://make.wordpress.org/core/2017/11/01/improvements-to-the-customize-js-api-in-4-9/
-#: wp-admin/about.php:208
+#: wp-admin/about.php:230
 msgid "We&#8217;ve made numerous improvements to the Customizer JS API in WordPress 4.9, eliminating many pain points and making it just as easy to work with as the PHP API. There are also new base control templates, a date/time control, and section/panel/global notifications to name a few. <a href=\"%s\">Check out the full list.</a>"
 msgstr "WordPress 4.9 では Customizer JS API を数え切れないほど改善しました。多くの面倒な部分が解消し、PHP API 同様、簡単に使えるようになりました。新しいベースコントロールテンプレートも追加しています。例を挙げると date/time コントロール、section/panel/global 通知など。<a href=\"%s\">完全なリストを確認してください。</a>"
 
-#: wp-admin/about.php:204
+#: wp-admin/about.php:226
 msgid "Customizer JS API Improvements"
 msgstr "カスタマイザー JS API の改善"
 
@@ -64,7 +64,7 @@ msgstr "カスタマイザー JS API の改善"
 msgid "This data is used to provide general enhancements to WordPress, which includes helping to protect your site by finding and automatically installing new updates. It is also used to calculate statistics, such as those shown on the <a href=\"%s\">WordPress.org stats page</a>."
 msgstr "このデータは WordPress の一般的な機能強化に使用され、新しい更新を検知し、自動的にインストールすることでサイトを保護するのに役立ちます。<a href=\"%s\">WordPress.org 統計情報ページ</a>に表示されるような、統計の計算にも使用されます。"
 
-#: wp-admin/about.php:117
+#: wp-admin/about.php:139
 msgid "When you edit themes and plugins directly, WordPress 4.9 will politely warn you that this is a dangerous practice. It will recommend that you backup your files before saving, so they don&#8217;t get overwritten by the next update. Take the safe route: your future self will thank you. Your team and customers will thank you."
 msgstr "テーマやプラグインを直接編集すると、それが危険なやり方だと WordPress 4.9 が丁寧に警告します。次回の更新によって変更が上書きされてしまうことがないように、保存する前にファイルをバックアップすることをお勧めします。安全なルートを選んでください。そうすれば将来自分に感謝するでしょう。チームと顧客も感謝してくれるでしょう。"
 
@@ -141,52 +141,52 @@ msgid "Enter the address here if you <a href=\"%s\">want your site home page to 
 msgstr "<a href=\"%s\">サイトのホームページとして WordPress のインストールディレクトリとは異なる場所を設定する場合</a>は、ここにアドレスを入力してください。"
 
 #. translators: %s: smiling face with smiling eyes emoji
-#: wp-admin/about.php:197
+#: wp-admin/about.php:219
 msgid "Developer Happiness %s"
 msgstr "開発者をハッピーに%s"
 
-#: wp-admin/about.php:187
+#: wp-admin/about.php:209
 msgid "https://wordpress.org/plugins/gutenberg/"
 msgstr "https://ja.wordpress.org/plugins/gutenberg/"
 
-#: wp-admin/about.php:186
+#: wp-admin/about.php:208
 msgid "WordPress is working on a new way to create and control your content and we&#8217;d love to have your help. Interested in being an <a href=\"%s\">early tester</a> or getting involved with the Gutenberg project? <a href=\"%s\">Contribute on GitHub</a>."
 msgstr "WordPress はコンテンツを作成し、コントロールする新しいやり方に取り組んでおり、助けを必要としています。<a href=\"%s\">早期テスター</a> になることや、Gutenberg プロジェクトに参加することに興味はありませんか ? <a href=\"%s\">GitHub で貢献してください</a>。"
 
 #. translators: %s: handshake emoji
-#: wp-admin/about.php:180
+#: wp-admin/about.php:202
 msgid "Lend a Hand with Gutenberg %s"
 msgstr "Gutenberg に手を貸してください%s"
 
-#: wp-admin/about.php:155
+#: wp-admin/about.php:177
 msgid "More Reliable Theme Switching"
 msgstr "テーマ切り替えをより確実に"
 
-#: wp-admin/about.php:147
+#: wp-admin/about.php:169
 msgid "Site Building Improvements"
 msgstr "サイト構築の改善"
 
-#: wp-admin/about.php:132
+#: wp-admin/about.php:154
 msgid "The New Gallery Widget"
 msgstr "新しいギャラリーウィジェット"
 
-#: wp-admin/about.php:124
+#: wp-admin/about.php:146
 msgid "Even More Widget Updates"
 msgstr "さらなるウィジェットの更新"
 
-#: wp-admin/about.php:94
+#: wp-admin/about.php:116
 msgid "Coding Enhancements"
 msgstr "コーディング強化"
 
-#: wp-admin/about.php:87
+#: wp-admin/about.php:109
 msgid "Were you lured away from your desk before you saved your new draft design? Fear not, when you return, WordPress 4.9 will politely ask whether or not you&#8217;d like to save your unsaved changes."
 msgstr "新しいデザインの下書きを保存する前に、誘い出されてデスクを離れたことがありますか ? 恐れることなかれ、席に戻ったとき、WordPress 4.9 は未保存の変更を保存するかどうか丁寧にお尋ねします。"
 
-#: wp-admin/about.php:86
+#: wp-admin/about.php:108
 msgid "A Prompt to Protect Your Work"
 msgstr "努力を守るプロンプト"
 
-#: wp-admin/about.php:79
+#: wp-admin/about.php:101
 msgid "Design Locking To Guard Your Changes"
 msgstr "変更を保護する、デザイン編集の衝突防止"
 
@@ -198,82 +198,82 @@ msgstr "私たちは、プライバシー保護と透明性の確保に真剣に
 msgid "From time to time, your WordPress site may send data to WordPress.org &#8212; including, but not limited to &#8212; the version of WordPress you are using, and a list of installed plugins and themes."
 msgstr "WordPress サイトは、使用中の WordPress のバージョンや、インストールされているプラグインやテーマのリスト等を含むデータを時々 WordPress.org に送信することがあります。"
 
-#: wp-admin/about.php:163
+#: wp-admin/about.php:185
 msgid "Were you confused by the steps to create a new menu? Perhaps no longer! We&#8217;ve ironed out the UX for a smoother menu creation process. Newly updated copy will guide you."
 msgstr "新しいメニューの作成手順に困惑しましたか ? おそらくもう大丈夫です。スムーズなメニュー作成プロセスのために UX を解決しました。新しいコピー文がご案内します。"
 
-#: wp-admin/about.php:162
+#: wp-admin/about.php:184
 msgid "Better Menu Instructions = Less Confusion"
 msgstr "メニューの説明の改善で、より分かりやすく"
 
-#: wp-admin/about.php:156
+#: wp-admin/about.php:178
 msgid "When you switch themes, widgets sometimes think they can just up and move location. Improvements in WordPress 4.9 offer more persistent menu and widget placement when you decide it&#8217;s time for a new theme. Additionally, you can preview installed themes or download, install, and preview new themes right. Nothing says handy like being able to preview before you deploy. "
 msgstr "テーマを切り替えると、ウィジェットが時々位置を移動してしまうことがありました。WordPress 4.9ではそれが改善され、新しいテーマに切り替えると決めた時にも、メニューとウィジェットが変わらず同じ場所にとどまります。さらに、インストール済みのテーマをプレビューすることも、新しいテーマをダウンロードして、インストール、プレビューすることもできます。デプロイ前にプレビューできることほど便利なことはありません。"
 
-#: wp-admin/about.php:140
+#: wp-admin/about.php:162
 msgid "Want to add media to your text widget? Embed images, video, and audio directly into the widget along with your text, with our simple but useful Add Media button. Woo!"
 msgstr "テキストウィジェットにメディアを追加したいですか ? シンプルでも実用的な「メディアを追加」ボタンを使って、画像や動画、音声ファイルをウィジェットに直接、テキストと一緒に埋め込みましょう。"
 
-#: wp-admin/about.php:139
+#: wp-admin/about.php:161
 msgid "Press a Button, Add Media"
 msgstr "ボタンを押して、メディアを追加"
 
-#: wp-admin/about.php:133
+#: wp-admin/about.php:155
 msgid "An incremental improvement to the media changes hatched in WordPress 4.8, you can now add a gallery via widget. Yes!"
 msgstr "WordPress 4.8でメディアが徐々に改善され、このバージョンでは、ウィジットでギャラリーを追加できるようになりました。"
 
-#: wp-admin/about.php:116
+#: wp-admin/about.php:138
 msgid "Warning: Potential Danger Ahead!"
 msgstr "前もって潜在的な危険性を警告"
 
-#: wp-admin/about.php:110
+#: wp-admin/about.php:132
 msgid "The dreaded white screen. You&#8217;ll avoid it when working on themes and plugin code because WordPress 4.9 will warn you about saving an error. You&#8217;ll sleep better at night."
 msgstr "真っ白な画面は非常に恐ろしいですね。WordPress 4.9 はエラーを保存すると警告するので、テーマやプラグインに取り組んでいるときに白い画面を避けられるでしょう。夜はもっとよく眠れますね。"
 
-#: wp-admin/about.php:109
+#: wp-admin/about.php:131
 msgid "Sandbox for Safety"
 msgstr "安全のためのサンドボックス"
 
-#: wp-admin/about.php:103
+#: wp-admin/about.php:125
 msgid "You&#8217;ve got a display problem but can&#8217;t quite figure out exactly what went wrong in the CSS you lovingly wrote. With syntax highlighting and error checking for CSS editing and the Custom HTML widget introduced in WordPress 4.8.1, you&#8217;ll pinpoint coding errors quickly. Practically guaranteed to help you scan code more easily and suss out and fix code errors quickly."
 msgstr "これまでは表示に問題があっても、愛情を込めて書いた CSS のどこに間違いがあるのか分かりませんでした。CSS 編集と WordPress 4.8.1で導入されたカスタム HTML ウィジェットに対して実装されたシンタックスハイライトとエラーチェックを使えば、コーディングエラーをすばやく特定できるでしょう。一層簡単にコードを読み、調査し、すばやくコードエラーを修正するのに役立つと保証します。"
 
-#: wp-admin/about.php:102
+#: wp-admin/about.php:124
 msgid "Syntax Highlighting and Error Checking? Yes, Please!"
 msgstr "シンタックスハイライトとエラーチェック"
 
-#: wp-admin/about.php:80
+#: wp-admin/about.php:102
 msgid "Ever encounter a scenario where two designers walk into a project and designer A overrides designer B&#8217;s beautiful changes? WordPress 4.9&#8217;s design lock feature (similar to post locking) secures your draft design so that no one can make changes to it or erase all your hard work."
 msgstr ""
 "2人のデザイナーがプロジェクトに入り、デザイナー A がデザイナー B の美しい変更を上書きするといった場面に遭遇したことはありませんか\n"
 " ? WordPress 4.9 のデザイン編集衝突防止機能 (投稿編集の衝突防止と同様に) は、誰かがそれを変更したり、大変な努力を消してしまうことがないように、デザイン案を保護します。"
 
-#: wp-admin/about.php:73
+#: wp-admin/about.php:95
 msgid "Need to get some feedback on proposed site design changes? WordPress 4.9 gives you a preview link you can send to your team and customers so that you can collect and integrate feedback before you schedule the changes to go live. Can we say collaboration&#43;&#43;?"
 msgstr "サイトのデザイン変更の提案に対して、フィードバックが必要ですか ? WordPress 4.9 では、チームや顧客にプレビューリンクを送ることができ、デザイン変更の公開を予約する前にフィードバックを集め、まとめることができます。コラボレーションにとどまりません。"
 
-#: wp-admin/about.php:72
+#: wp-admin/about.php:94
 msgid "Collaborate with Design Preview Links"
 msgstr "デザインプレビューリンクとの連携"
 
-#: wp-admin/about.php:66
+#: wp-admin/about.php:88
 msgid "Yes, you read that right. Just like you can draft and revise posts and schedule them to go live on the date and time you choose, you can now tinker with your site&#8217;s design and schedule those design changes to go live as you please."
 msgstr "そう、読んだ通りです。投稿の下書きを作成し、手を加え、日時を指定して予約投稿するのと同様に、サイトのデザインを修正し、お好きなようにデザイン変更の適用・公開を予約することができます。"
 
-#: wp-admin/about.php:65
+#: wp-admin/about.php:87
 msgid "Draft and Schedule Site Design Customizations"
 msgstr "サイトデザインカスタマイズの下書きと予約公開"
 
-#: wp-admin/about.php:57
+#: wp-admin/about.php:79
 msgid "Customizer Workflow Improved"
 msgstr "カスタマイザーワークフローの改善"
 
-#: wp-admin/about.php:44
+#: wp-admin/about.php:66
 msgid "Welcome to an improved Customizer workflow with design drafts, locking, scheduling, and preview links. What&#8217;s more, code syntax highlighting and error checking will make for a clean and smooth site building experience. Finally, if all that wasn&#8217;t pretty great, we&#8217;ve got a great new Gallery widget and improvements to theme browsing and switching."
 msgstr "デザインの下書き、衝突防止、予約公開、プレビューリンクにより改善されたカスタマイザーワークフローにようこそ。さらに、コードシンタックスハイライトとコードエラーのチェックにより、サイト構築の体験はよりクリーンでスムーズになります。最後に、もしこのすべてが素晴らしいものではなかったとしても、すてきな新しいギャラリーウィジェットと、テーマの閲覧と切り替えの改善があります。"
 
 #. translators: %s: party popper emoji
-#: wp-admin/about.php:39
+#: wp-admin/about.php:61
 msgid "Major Customizer Improvements, Code Error Checking, and More! %s"
 msgstr "大規模なカスタマイザーの改善、コードエラーのチェックなど%s"
 
@@ -328,7 +328,7 @@ msgstr "テーマファイル"
 msgid "folder"
 msgstr "フォルダー"
 
-#: wp-admin/includes/file.php:542
+#: wp-admin/includes/file.php:543
 msgid "Unable to communicate back with site to check for fatal errors, so the PHP change was reverted. You will need to upload your PHP file change by some other means, such as by using SFTP."
 msgstr "致命的なエラーをチェックするためにサイトと通信できないため、PHP の変更は取り消されました。SFTP を使うなど、他の手段で PHP ファイルの変更をアップロードする必要があります。"
 
@@ -337,7 +337,7 @@ msgid "Installation Required"
 msgstr "インストールが必要です"
 
 #. translators: %s: plugin filename
-#: wp-admin/includes/plugin.php:907
+#: wp-admin/includes/plugin.php:894
 msgid "Could not fully remove the plugin %s."
 msgstr "%s プラグインを完全に削除できませんでした。"
 
@@ -492,7 +492,7 @@ msgstr "<a href=\"http://wpdocs.osdn.jp/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%
 msgid "Plugin Installation"
 msgstr "プラグインのインストール"
 
-#: wp-admin/includes/plugin.php:430
+#: wp-admin/includes/plugin.php:417
 msgid "Custom installation script."
 msgstr "カスタムインストールスクリプト。"
 
@@ -520,7 +520,7 @@ msgstr "<strong>情報</strong> &mdash; サイト URL は、サイトが正し�
 msgid "The menu is for editing information specific to individual sites, particularly if the admin area of a site is unavailable."
 msgstr "このメニューは、特にサイトの管理画面が利用できない場合に、サイト固有の情報を編集するためのものです。"
 
-#: wp-admin/includes/file.php:485
+#: wp-admin/includes/file.php:486
 msgid "Unable to write to file."
 msgstr "ファイルに書き込みできません。"
 
@@ -1697,7 +1697,7 @@ msgid "Welcome to %s. This is your first post. Edit or delete it, then start blo
 msgstr "%s へようこそ。これは最初の投稿です。編集もしくは削除してブログを始めてください !"
 
 #. translators: %s: WordPress version number
-#: wp-admin/about.php:350
+#: wp-admin/about.php:372
 msgid "<strong>Version %s</strong> addressed one security issue."
 msgstr "<strong>バージョン %s</strong> ではセキュリティ問題1件に対応しました。"
 
@@ -1714,15 +1714,15 @@ msgstr "<a href=\"%s\">Gravatar</a> でプロフィール画像を変更でき�
 msgid "Profile Picture"
 msgstr "プロフィール写真"
 
-#: wp-admin/about.php:347
+#: wp-admin/about.php:34 wp-admin/about.php:369
 msgid "Maintenance and Security Releases"
 msgstr "メンテナンスとセキュリティのリリース"
 
-#: wp-admin/about.php:344
+#: wp-admin/about.php:366
 msgid "Security Releases"
 msgstr "セキュリティリリース"
 
-#: wp-admin/about.php:341
+#: wp-admin/about.php:363
 msgid "Maintenance Releases"
 msgstr "メンテナンスリリース"
 
@@ -2692,7 +2692,7 @@ msgstr "https://wpdocs.osdn.jp/Introduction_to_Blogging#Managing_Comments"
 msgid "The <a href=\"https://codex.wordpress.org/Glossary#Character_set\">character encoding</a> of your site (UTF-8 is recommended)"
 msgstr "サイトの<a href=\"https://wpdocs.osdn.jp/Glossary#Character_Set\">文字セット</a> (UTF-8 を推奨)"
 
-#: wp-admin/includes/file.php:1708
+#: wp-admin/includes/file.php:1709
 msgid "example: www.wordpress.org"
 msgstr "例: www.wordpress.org"
 
@@ -2746,7 +2746,7 @@ msgstr "切り離す"
 msgid "Main menu"
 msgstr "メインメニュー"
 
-#: wp-admin/includes/file.php:1753
+#: wp-admin/includes/file.php:1754
 msgid "Enter the location on the server where the public and private keys are located. If a passphrase is needed, enter that in the password field above."
 msgstr "公開鍵と秘密鍵があるサーバー上の場所を入力してください。パスフレーズが必要な場合は上のパスワードの項目に入力してください。"
 
@@ -3969,11 +3969,11 @@ msgstr "必要なファイルをコピーしています&#8230;"
 msgid "Preparing to install the latest version&#8230;"
 msgstr "最新版をインストールする準備をしています&#8230;"
 
-#: wp-admin/includes/file.php:1720
+#: wp-admin/includes/file.php:1721
 msgid "This password will not be stored on the server."
 msgstr "このパスワードはサーバー上に保存されません。"
 
-#: wp-admin/includes/file.php:1021
+#: wp-admin/includes/file.php:1022
 msgid "The checksum of the file (%1$s) does not match the expected checksum value (%2$s)."
 msgstr "ファイルのチェックサム (%1$s) が期待値 (%2$s) と一致しません。"
 
@@ -4954,8 +4954,8 @@ msgstr "新規ユーザーを作成しました。<a href=\"%s\">ユーザーを
 msgid "User deleted."
 msgstr "ユーザーを削除しました。"
 
-#: wp-admin/includes/class-core-upgrader.php:36 wp-admin/includes/file.php:1146
-#: wp-admin/includes/file.php:1257
+#: wp-admin/includes/class-core-upgrader.php:36 wp-admin/includes/file.php:1147
+#: wp-admin/includes/file.php:1258
 msgid "Could not copy files. You may have run out of disk space."
 msgstr "ファイルをコピーできませんでした。ディスク容量不足の可能性があります。"
 
@@ -5504,26 +5504,27 @@ msgid "Show Toolbar when viewing site"
 msgstr "サイトを見るときにツールバーを表示する"
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
-#: wp-admin/about.php:355
+#: wp-admin/about.php:377
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "<strong>バージョン %1$s</strong> では%2$s個のバグを修正しました。"
 
+#. translators: 1: WordPress version number, 2: plural number of bugs.
 #. translators: 1: WordPress version number, 2: plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:363
+#: wp-admin/about.php:39 wp-admin/about.php:385
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "<strong>バージョン %1$s</strong> はいくつかのセキュリティ問題に対応し、%2$s個のバグを修正しました。"
 
 #. translators: %s: Codex URL
-#: wp-admin/about.php:367
+#: wp-admin/about.php:50 wp-admin/about.php:389
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "詳しくは<a href=\"%s\">リリースノート</a>をご覧ください。"
 
 #. translators: 1: WordPress version number, 2: plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:359
+#: wp-admin/about.php:381
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "<strong>バージョン %1$s</strong> はセキュリティ問題に対応し、%2$s個のバグを修正しました。"
@@ -5533,15 +5534,15 @@ msgid "Welcome to your WordPress Dashboard! This is the screen you will see when
 msgstr "WordPress のダッシュボードへようこそ ! これはサイトにログインすると表示される画面で、ここから WordPress のすべてのサイト管理機能へアクセスできます。どの画面にいても画面のタイトルの上にあるヘルプタブをクリックすればヘルプ情報を得られます。"
 
 #. translators: %s: WordPress version number
-#: wp-admin/about.php:352
+#: wp-admin/about.php:374
 msgid "<strong>Version %s</strong> addressed some security issues."
 msgstr "<strong>バージョン %s</strong> では複数のセキュリティ問題に対応しました。"
 
-#: wp-admin/about.php:340
+#: wp-admin/about.php:362
 msgid "Maintenance Release"
 msgstr "メンテナンスリリース"
 
-#: wp-admin/about.php:343
+#: wp-admin/about.php:365
 msgid "Security Release"
 msgstr "セキュリティリリース"
 
@@ -5550,7 +5551,7 @@ msgstr "セキュリティリリース"
 msgid "What&#8217;s New"
 msgstr "新着情報"
 
-#: wp-admin/about.php:346
+#: wp-admin/about.php:368
 msgid "Maintenance and Security Release"
 msgstr "メンテナンスとセキュリティのリリース"
 
@@ -5562,7 +5563,7 @@ msgstr "この画面ではパーマリンク構造を選択できます。共通
 msgid "Welcome to WordPress %1$s. <a href=\"%2$s\">Learn more</a>."
 msgstr "WordPress %1$s へようこそ。<a href=\"%2$s\">詳細を読む</a>。"
 
-#: wp-admin/about.php:233
+#: wp-admin/about.php:255
 msgid "Return to Updates"
 msgstr "更新ページへ戻る"
 
@@ -5834,11 +5835,11 @@ msgstr "このサイトはマルチサイトインストールのため、サイ
 msgid "Welcome to WordPress %s"
 msgstr "WordPress %s へようこそ"
 
-#: wp-admin/about.php:233
+#: wp-admin/about.php:255
 msgid "Return to Dashboard &rarr; Updates"
 msgstr "ダッシュボード &rarr; 更新へ戻る"
 
-#: wp-admin/about.php:236
+#: wp-admin/about.php:258
 msgid "Go to Dashboard &rarr; Home"
 msgstr "ダッシュボード &rarr; ホームへ移動"
 
@@ -5965,7 +5966,7 @@ msgstr "音声、動画、またはその他のファイル"
 msgid "<strong>ERROR</strong>: options page not found."
 msgstr "<strong>エラー</strong>: 設定ページが見つかりません。"
 
-#: wp-admin/includes/file.php:1647
+#: wp-admin/includes/file.php:1648
 msgid "<strong>ERROR:</strong> There was an error connecting to the server, Please verify the settings are correct."
 msgstr "<strong>ERROR:</strong> サーバー接続中にエラーが発生しました。設定を確認してください。"
 
@@ -6318,11 +6319,11 @@ msgstr "もっと多くのプラグインを見たいのであれば、\"新規�
 msgid "Re-install Now"
 msgstr "再インストール"
 
-#: wp-admin/includes/file.php:750
+#: wp-admin/includes/file.php:751
 msgid "The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form."
 msgstr "アップロードしたファイルは HTML フォームで指定された MAX_FILE_SIZE を超過しています。"
 
-#: wp-admin/includes/file.php:749
+#: wp-admin/includes/file.php:750
 msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini."
 msgstr "アップロードしたファイルは php.ini で定義された upload_max_filesize を超過しています。"
 
@@ -6749,7 +6750,7 @@ msgstr "フィルターを適用"
 msgid "Editor Style"
 msgstr "エディタースタイル"
 
-#: wp-admin/includes/file.php:1690
+#: wp-admin/includes/file.php:1691
 msgid "To perform the requested action, WordPress needs to access your web server."
 msgstr "要求されたアクションを実行するには、WordPress が Web サーバーにアクセスする必要があります。"
 
@@ -6835,19 +6836,19 @@ msgstr "切り取って公開する"
 msgid "XFN stands for <a href=\"http://gmpg.org/xfn/\">XHTML Friends Network</a>, which is optional. WordPress allows the generation of XFN attributes to show how you are related to the authors/owners of the site to which you are linking."
 msgstr "XFN は <a href=\"http://gmpg.org/xfn/\">XHTML フレンズネットワーク (XHTML Friends Network)</a> の略で、オプション機能です。WordPress はリンク先のサイトの作成者・所有者とあなたとの関係性を表示するための XFN 属性を生成できます。"
 
-#: wp-admin/includes/file.php:1695
+#: wp-admin/includes/file.php:1696
 msgid "FTP/SSH Username"
 msgstr "FTP/SSH ユーザー名"
 
-#: wp-admin/includes/file.php:1696
+#: wp-admin/includes/file.php:1697
 msgid "FTP/SSH Password"
 msgstr "FTP/SSH パスワード"
 
-#: wp-admin/includes/file.php:1699
+#: wp-admin/includes/file.php:1700
 msgid "FTP Username"
 msgstr "FTP ユーザー名"
 
-#: wp-admin/includes/file.php:1700
+#: wp-admin/includes/file.php:1701
 msgid "FTP Password"
 msgstr "FTP パスワード"
 
@@ -6891,15 +6892,15 @@ msgstr "テキストコンテンツ内に挿入する画像の最大サイズを
 msgid "<strong>Order</strong> &mdash; Pages are usually ordered alphabetically, but you can choose your own order by entering a number (1 for first, etc.) in this field."
 msgstr "<strong>順序</strong> &mdash; 固定ページは通常アルファベット順に並べられますが、この欄に数字を入力 (例: 最初にくるものは 1) することで好きな順序に変更できます。"
 
-#: wp-admin/includes/file.php:1704
+#: wp-admin/includes/file.php:1705
 msgid "If you do not remember your credentials, you should contact your web host."
 msgstr "接続情報が思い出せない場合は、ホスティング担当者に問い合わせてください。"
 
-#: wp-admin/includes/file.php:1698
+#: wp-admin/includes/file.php:1699
 msgid "Please enter your FTP credentials to proceed."
 msgstr "次に進むには FTP の接続情報を入力してください。"
 
-#: wp-admin/includes/file.php:1694
+#: wp-admin/includes/file.php:1695
 msgid "Please enter your FTP or SSH credentials to proceed."
 msgstr "次に進むには FTP または SSH の接続情報を入力してください。"
 
@@ -7331,15 +7332,15 @@ msgstr "参加サイト"
 msgid "Sorry, you are not allowed to create pages on this site."
 msgstr "このサイトでページを作成する権限がありません。"
 
-#: wp-admin/includes/plugin.php:438
+#: wp-admin/includes/plugin.php:425
 msgid "Custom site inactive message."
 msgstr "サイト停止中の際のカスタムメッセージ。"
 
-#: wp-admin/includes/plugin.php:439
+#: wp-admin/includes/plugin.php:426
 msgid "Custom site suspended message."
 msgstr "ブログ強制停止時の際のカスタムメッセージ。"
 
-#: wp-admin/includes/plugin.php:437
+#: wp-admin/includes/plugin.php:424
 msgid "Custom site deleted message."
 msgstr "サイト削除時のカスタムメッセージ。"
 
@@ -7665,7 +7666,7 @@ msgstr "すべて表示"
 msgid "Please enter a valid menu name."
 msgstr "メニュー名を入力してください。"
 
-#: wp-admin/about.php:236
+#: wp-admin/about.php:258
 msgid "Go to Dashboard"
 msgstr "ダッシュボードへ移動"
 
@@ -7698,11 +7699,11 @@ msgstr "次のプラグインを削除しようとしています:"
 msgid "This address is used for admin purposes. If you change this we will send you an email at your new address to confirm it. <strong>The new address will not become active until confirmed.</strong>"
 msgstr "このアドレスは管理のために使用されます。このメールアドレスを変更すると、確認のため新しいアドレス宛にメールを送信します。<strong>新しいアドレスは確認が済むまで有効化されません。</strong>"
 
-#: wp-admin/includes/plugin.php:427
+#: wp-admin/includes/plugin.php:414
 msgid "Advanced caching plugin."
 msgstr "高度なキャッシュプラグイン。"
 
-#: wp-admin/includes/plugin.php:428
+#: wp-admin/includes/plugin.php:415
 msgid "Custom database class."
 msgstr "カスタムデータベースクラス。"
 
@@ -7715,23 +7716,23 @@ msgstr "カスタムデータベースクラス。"
 msgid "Install %s"
 msgstr "%s のインストール"
 
-#: wp-admin/includes/file.php:781
+#: wp-admin/includes/file.php:782
 msgid "File is empty. Please upload something more substantial."
 msgstr "ファイルは空です。実体のあるファイルをアップロードしてください。"
 
-#: wp-admin/includes/plugin.php:429
+#: wp-admin/includes/plugin.php:416
 msgid "Custom database error message."
 msgstr "データベースエラー時のカスタムメッセージ。"
 
-#: wp-admin/includes/plugin.php:431
+#: wp-admin/includes/plugin.php:418
 msgid "Custom maintenance message."
 msgstr "メンテナンス中のカスタムメッセージ。"
 
-#: wp-admin/includes/plugin.php:432
+#: wp-admin/includes/plugin.php:419
 msgid "External object cache."
 msgstr "外部オブジェクトキャッシュ。"
 
-#: wp-admin/includes/plugin.php:436
+#: wp-admin/includes/plugin.php:423
 msgid "Executed before Multisite is loaded."
 msgstr "マルチサイトが読み込まれる前に実行されます。"
 
@@ -8241,11 +8242,11 @@ msgstr "編集するプラグインを選択:"
 msgid "File edited successfully."
 msgstr "ファイルの編集に成功しました。"
 
-#: wp-admin/includes/file.php:467 wp-admin/plugin-editor.php:112
+#: wp-admin/includes/file.php:468 wp-admin/plugin-editor.php:112
 msgid "Files of this type are not editable."
 msgstr "この種類のファイルは編集できません。"
 
-#: wp-admin/includes/file.php:459 wp-admin/plugin-editor.php:105
+#: wp-admin/includes/file.php:460 wp-admin/plugin-editor.php:105
 msgid "No such file exists! Double check the name and try again."
 msgstr "そのようなファイルは存在しません ! ファイル名をもう一度確認して試してください。"
 
@@ -9243,28 +9244,28 @@ msgstr "このユーザーとして投稿を編集する権限がありません
 msgid "Sorry, you are not allowed to edit pages as this user."
 msgstr "このユーザーとして固定ページを編集する権限がありません。"
 
-#: wp-admin/includes/plugin.php:975
+#: wp-admin/includes/plugin.php:962
 msgid "The plugin does not have a valid header."
 msgstr "このプラグインには有効なヘッダーがありません。"
 
-#: wp-admin/includes/plugin.php:971
+#: wp-admin/includes/plugin.php:958
 msgid "Plugin file does not exist."
 msgstr "プラグインファイルが存在しません。"
 
-#: wp-admin/includes/plugin.php:969
+#: wp-admin/includes/plugin.php:956
 msgid "Invalid plugin path."
 msgstr "無効なプラグインのパスです。"
 
 #. translators: %s: comma-separated list of plugin filenames
-#: wp-admin/includes/plugin.php:910
+#: wp-admin/includes/plugin.php:897
 msgid "Could not fully remove the plugins %s."
 msgstr "プラグイン %s を完全に削除できませんでした。"
 
-#: wp-admin/includes/plugin.php:766
+#: wp-admin/includes/plugin.php:753
 msgid "One of the plugins is invalid."
 msgstr "プラグインのひとつが不正です。"
 
-#: wp-admin/includes/plugin.php:631
+#: wp-admin/includes/plugin.php:618
 msgid "The plugin generated unexpected output."
 msgstr "プラグインが予期しない出力をしました。"
 
@@ -9884,101 +9885,101 @@ msgstr "トリミング"
 msgid "Image data does not exist. Please re-upload the image."
 msgstr "画像のデータが存在しません。再度アップロードしてください。"
 
-#: wp-admin/includes/file.php:1766
+#: wp-admin/includes/file.php:1767
 msgid "Proceed"
 msgstr "開始"
 
-#: wp-admin/includes/file.php:1724
+#: wp-admin/includes/file.php:1725
 msgid "Connection Type"
 msgstr "接続形式"
 
-#: wp-admin/includes/file.php:1750
+#: wp-admin/includes/file.php:1751
 msgid "Private Key:"
 msgstr "秘密鍵:"
 
-#: wp-admin/includes/file.php:1746
+#: wp-admin/includes/file.php:1747
 msgid "Public Key:"
 msgstr "公開鍵:"
 
-#: wp-admin/includes/file.php:1744
+#: wp-admin/includes/file.php:1745
 msgid "Authentication Keys"
 msgstr "認証キー"
 
-#: wp-admin/includes/file.php:1707
+#: wp-admin/includes/file.php:1708
 msgid "Hostname"
 msgstr "ホスト名"
 
-#: wp-admin/includes/file.php:1685
+#: wp-admin/includes/file.php:1686
 msgid "Connection Information"
 msgstr "接続情報"
 
-#: wp-admin/includes/file.php:1659
+#: wp-admin/includes/file.php:1660
 msgid "SSH2"
 msgstr "SSH2"
 
-#: wp-admin/includes/file.php:1657
+#: wp-admin/includes/file.php:1658
 msgid "FTPS (SSL)"
 msgstr "FTPS (SSL)"
 
-#: wp-admin/includes/file.php:1655
+#: wp-admin/includes/file.php:1656
 msgid "FTP"
 msgstr "FTP"
 
-#: wp-admin/includes/file.php:1235
+#: wp-admin/includes/file.php:1236
 msgid "Empty archive."
 msgstr "空のアーカイブ"
 
-#: wp-admin/includes/file.php:1194 wp-admin/includes/file.php:1298
-#: wp-admin/includes/file.php:1333 wp-admin/includes/update-core.php:1091
+#: wp-admin/includes/file.php:1195 wp-admin/includes/file.php:1299
+#: wp-admin/includes/file.php:1334 wp-admin/includes/update-core.php:1091
 #: wp-admin/includes/update-core.php:1202
 msgid "Could not copy file."
 msgstr "ファイルをコピーできませんでした。"
 
-#: wp-admin/includes/file.php:1191
+#: wp-admin/includes/file.php:1192
 msgid "Could not extract file from archive."
 msgstr "アーカイブからファイルを展開できません。"
 
-#: wp-admin/includes/file.php:1117 wp-admin/includes/file.php:1176
+#: wp-admin/includes/file.php:1118 wp-admin/includes/file.php:1177
 msgid "Could not retrieve file from archive."
 msgstr "アーカイブからファイルを取得できません。"
 
-#: wp-admin/includes/file.php:973
+#: wp-admin/includes/file.php:974
 msgid "Could not create Temporary file."
 msgstr "一時ファイルを作成できませんでした"
 
-#: wp-admin/includes/file.php:967
+#: wp-admin/includes/file.php:968
 msgid "Invalid URL Provided."
 msgstr "無効な URL です。"
 
-#: wp-admin/includes/file.php:791
+#: wp-admin/includes/file.php:792
 msgid "Specified file failed upload test."
 msgstr "指定したファイルのアップロードテストに失敗しました。"
 
-#: wp-admin/includes/file.php:783 wp-admin/includes/import.php:84
+#: wp-admin/includes/file.php:784 wp-admin/includes/import.php:84
 msgid "File is empty. Please upload something more substantial. This error could also be caused by uploads being disabled in your php.ini or by post_max_size being defined as smaller than upload_max_filesize in php.ini."
 msgstr "ファイルが空のようです。中身のあるファイルをアップロードしてください。このエラーは php.ini ファイルでアップロードができない設定になっているか、post_max_size が upload_max_filesize よりも小さく設定されているために発生している可能性もあります。"
 
-#: wp-admin/includes/file.php:770
+#: wp-admin/includes/file.php:771
 msgid "Invalid form submission."
 msgstr "フォームの送信が正しくありません。"
 
-#: wp-admin/includes/file.php:756
+#: wp-admin/includes/file.php:757
 msgid "File upload stopped by extension."
 msgstr "拡張モジュールによってファイルアップロードが停止しました。"
 
-#: wp-admin/includes/file.php:755
+#: wp-admin/includes/file.php:756
 msgid "Failed to write file to disk."
 msgstr "ディスクへのファイルの書き込みに失敗しました。"
 
-#: wp-admin/includes/file.php:754
+#: wp-admin/includes/file.php:755
 msgid "Missing a temporary folder."
 msgstr "一時フォルダーが見つかりません。"
 
-#: wp-admin/includes/file.php:752
+#: wp-admin/includes/file.php:753
 msgid "No file was uploaded."
 msgstr "ファイルをアップロードできませんでした。"
 
-#: wp-admin/includes/file.php:751
+#: wp-admin/includes/file.php:752
 msgid "The uploaded file was only partially uploaded."
 msgstr "部分的にしかアップロードできませんでした。"
 
@@ -10141,7 +10142,7 @@ msgstr "WordPress フォーラム"
 msgid "Right Now"
 msgstr "現在の状況"
 
-#: wp-admin/includes/file.php:858
+#: wp-admin/includes/file.php:859
 msgid "The uploaded file could not be moved to %s."
 msgstr "アップロードしたファイルを%sに移動できませんでした。"
 
@@ -10273,12 +10274,12 @@ msgstr "メンテナンスモードを無効にします…"
 msgid "Enabling Maintenance mode&#8230;"
 msgstr "メンテナンスモードを有効にします…"
 
-#: wp-admin/includes/file.php:1111 wp-admin/includes/file.php:1232
+#: wp-admin/includes/file.php:1112 wp-admin/includes/file.php:1233
 msgid "Incompatible Archive."
 msgstr "互換性のないアーカイブ。"
 
-#: wp-admin/includes/class-wp-upgrader.php:162 wp-admin/includes/file.php:1169
-#: wp-admin/includes/file.php:1280 wp-admin/includes/file.php:1338
+#: wp-admin/includes/class-wp-upgrader.php:162 wp-admin/includes/file.php:1170
+#: wp-admin/includes/file.php:1281 wp-admin/includes/file.php:1339
 #: wp-admin/includes/update-core.php:1207
 msgid "Could not create directory."
 msgstr "ディレクトリを作成できませんでした。"
@@ -10300,7 +10301,7 @@ msgstr "ダウンロードに失敗しました。"
 msgid "Unable to locate needed folder (%s)."
 msgstr "必要なフォルダー (%s) が見つかりません。"
 
-#: wp-admin/includes/class-wp-upgrader.php:153 wp-admin/includes/plugin.php:832
+#: wp-admin/includes/class-wp-upgrader.php:153 wp-admin/includes/plugin.php:819
 msgid "Unable to locate WordPress plugin directory."
 msgstr "WordPress プラグインディレクトリが見つかりません。"
 
@@ -10312,14 +10313,14 @@ msgstr "WordPress のコンテンツディレクトリ (wp-content) が見つか
 msgid "Unable to locate WordPress root directory."
 msgstr "WordPress のルートディレクトリが見つかりません。"
 
-#: wp-admin/includes/class-wp-upgrader.php:150 wp-admin/includes/plugin.php:827
+#: wp-admin/includes/class-wp-upgrader.php:150 wp-admin/includes/plugin.php:814
 #: wp-admin/includes/theme.php:62
 msgid "Filesystem error."
 msgstr "ファイルシステムのエラー。"
 
 #: wp-admin/includes/class-wp-automatic-updater.php:336
-#: wp-admin/includes/class-wp-upgrader.php:149 wp-admin/includes/file.php:1043
-#: wp-admin/includes/plugin.php:824 wp-admin/includes/theme.php:59
+#: wp-admin/includes/class-wp-upgrader.php:149 wp-admin/includes/file.php:1044
+#: wp-admin/includes/plugin.php:811 wp-admin/includes/theme.php:59
 msgid "Could not access filesystem."
 msgstr "ファイルシステムにアクセスできませんでした。"
 
