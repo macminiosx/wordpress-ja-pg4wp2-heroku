@@ -503,6 +503,10 @@
 		// WP 2.9.1 uses a comparison where text data is not quoted
 		$pattern = '/AND meta_value = (-?\d+)/';
 		$sql = preg_replace( $pattern, 'AND meta_value = \'$1\'', $sql);
+
+		// for wp-cron error "No operator matches the given name and argument type(s)."
+		$pattern = '/AND meta_value < (-?\d+)/';
+		$sql = preg_replace( $pattern, 'AND meta_value < \'$1\'', $sql);
 		
 		// Generic "INTERVAL xx YEAR|MONTH|DAY|HOUR|MINUTE|SECOND" handler
 		$pattern = '/INTERVAL[ ]+(\d+)[ ]+(YEAR|MONTH|DAY|HOUR|MINUTE|SECOND)/';
