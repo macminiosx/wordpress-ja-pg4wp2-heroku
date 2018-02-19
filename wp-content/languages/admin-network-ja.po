@@ -24,7 +24,7 @@ msgstr "以下のサイトを削除しようとしています:"
 msgid "User could not be added to this site."
 msgstr "このサイトにユーザーを追加できません。"
 
-#: wp-admin/network/site-new.php:250
+#: wp-admin/network/site-new.php:252
 msgid "The username and a link to set the password will be mailed to this email address."
 msgstr "ユーザー名、パスワード設定用のリンクをこのメールアドレス宛てに送信します。"
 
@@ -551,7 +551,7 @@ msgstr "許可するファイルの種類。半角スペースで区切って入
 msgid "Set site attributes"
 msgstr "サイトの属性を設定"
 
-#: wp-admin/network/settings.php:418
+#: wp-admin/network/settings.php:420
 msgid "Enable menus"
 msgstr "メニューを有効化"
 
@@ -1227,7 +1227,7 @@ msgstr "アップロード設定"
 msgid "Operational Settings"
 msgstr "運用設定"
 
-#: wp-admin/network/settings.php:396
+#: wp-admin/network/settings.php:398
 msgid "Enable administration menus"
 msgstr "管理メニューを有効化"
 
@@ -1268,15 +1268,15 @@ msgstr "[%s] 新しいサイトを作成しました"
 msgid "Network Admin Email"
 msgstr "サイトネットワーク管理者のメールアドレス"
 
-#: wp-admin/network/site-new.php:250
+#: wp-admin/network/site-new.php:252
 msgid "A new user will be created if the above email address is not in the database."
 msgstr "上記メールアドレスがデータベースになければ新規ユーザーが作成されます。"
 
-#: wp-admin/network/site-new.php:246
+#: wp-admin/network/site-new.php:248
 msgid "Admin Email"
 msgstr "管理者メールアドレス"
 
-#: wp-admin/network/site-new.php:262
+#: wp-admin/network/site-new.php:264
 msgid "Add Site"
 msgstr "サイトを追加"
 

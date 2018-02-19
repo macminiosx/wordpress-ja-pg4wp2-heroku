@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the WordPress - 4.9.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-11-17 09:56:44+0000\n"
+"PO-Revision-Date: 2018-01-24 06:17:29+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -25,6 +25,10 @@ msgstr "Asia/Tokyo"
 msgctxt "start of week"
 msgid "1"
 msgstr "1"
+
+#: wp-admin/customize.php:80
+msgid "This changeset cannot be further modified."
+msgstr "このチェンジセットはこれ以上変更できません。"
 
 #: wp-admin/about.php:262
 msgid "Improvements to Roles and Capabilities"
@@ -766,10 +770,6 @@ msgstr "https://ja.wordpress.org/plugins/"
 #: wp-admin/customize.php:72 wp-admin/customize.php:81
 msgid "Customize New Changes"
 msgstr "新規変更をカスタマイズ"
-
-#: wp-admin/customize.php:80
-msgid "This changeset has already been published and cannot be further modified."
-msgstr "このチェンジセットは公開済みなので変更できません。"
 
 #: wp-admin/custom-background.php:407 wp-admin/custom-background.php:408
 msgctxt "Background Scroll"
@@ -2628,7 +2628,7 @@ msgid "<a href=\"https://codex.wordpress.org/Managing_Plugins#Plugin_Management\
 msgstr "<a href=\"https://wpdocs.osdn.jp/Managing_Plugins#Plugin_Management\">プラグイン管理の解説</a>"
 
 #. translators: %s: the option/setting
-#: wp-admin/options.php:198
+#: wp-admin/options.php:200
 msgid "The %s setting is unregistered. Unregistered settings are deprecated. See https://codex.wordpress.org/Settings_API"
 msgstr "設定 <code>%1$s</code> は登録されていません。未登録設定は非推奨です。https://wpdocs.osdn.jp/Settings_API をご覧ください。"
 
@@ -6103,7 +6103,7 @@ msgid "Changed roles."
 msgstr "権限グループを変更しました。"
 
 #: wp-admin/my-sites.php:54 wp-admin/options-head.php:15
-#: wp-admin/options.php:233
+#: wp-admin/options.php:235
 msgid "Settings saved."
 msgstr "設定を保存しました。"
 
@@ -8254,7 +8254,7 @@ msgstr "そのようなファイルは存在しません ! ファイル名をも
 msgid "Edit Plugins"
 msgstr "プラグイン編集"
 
-#: wp-admin/options.php:247
+#: wp-admin/options.php:249
 msgid "All Settings"
 msgstr "すべての設定"
 
@@ -10778,7 +10778,7 @@ msgid "Custom Header"
 msgstr "カスタムヘッダー"
 
 #: wp-admin/includes/template.php:1994 wp-admin/nav-menus.php:659
-#: wp-admin/options.php:294
+#: wp-admin/options.php:296
 msgid "Save Changes"
 msgstr "変更を保存"
 
