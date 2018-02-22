@@ -11,7 +11,7 @@ Cloudinary supercharges your images! Upload images to the cloud, deliver optimiz
 
 == Description ==
 
-**Cloudinary is your one stop shop for EVERY image related task.** 
+**Cloudinary is your one stop shop for EVERY image related task.**
 
 With Cloudinary, all your images are automatically uploaded, normalized, optimized and backed-up in the cloud instead of being hosted on your servers.
 
@@ -48,7 +48,7 @@ You can apply one or more transformations and manipulations on every image:
 * **Apply effects & filters** - sharpen, sepia, saturation, grayscale, black & white, hue, brightness, oil paint, pixelate, vignette, add borders.
 * **Overlays & Text** - add watermarks, add image overlay and underlay, add text to the image.
 * **Face detection** - face detection based cropping, thumbnail, multiple faces detection, pixelate faces.
-* **Rotates & flips** - Image rotation (90 degrees), arbitrary rotation, exif-based automatic rotation, vertical & horizontal flips, 
+* **Rotates & flips** - Image rotation (90 degrees), arbitrary rotation, exif-based automatic rotation, vertical & horizontal flips,
 * **Shape alteration** - add rounded corners, crop to ellipses and circles.
 * **Resize & crop** - scale, fill, fit, pad, crop, limit, custom coordinates.
 * **PDF Processing** - extract pages, convert to images.
@@ -74,7 +74,7 @@ You can apply one or more transformations and manipulations on every image:
 * Optimizing compression.
 
 = Simple Integration =
- 
+
 * Upload and manage your images with Cloudinary directly from your WordPress interface.
 * Migrate all your locally hosted images to Cloudinary.
 * Move your existing posts' images to Cloudinary in a single click.
@@ -101,22 +101,22 @@ Read more about the Cloudinary service:
 
 = Support =
 
-* [Support site](http://support.cloudinary.com/home) 
-* [Knowledge Base](http://support.cloudinary.com/forums) 
+* [Support site](http://support.cloudinary.com/home)
+* [Knowledge Base](http://support.cloudinary.com/forums)
 * Support Email: [support@cloudinary.com](support@cloudinary.com)
 * [Contact page](http://cloudinary.com/contact)
 * Twitter: [@cloudinary](http://twitter.com/cloudinary)
 * [Facebook page](https://www.facebook.com/Cloudinary)
 
 
-**Keywords**: image, images, photo, photos, picture, pictures, thumbnail, thumbnails, upload, batch, cdn, content delivery network, transform, manipulate, effects, scale, high availability, fast, format, sharpen, sepia, saturation, grayscale, b&w, hue, brightness, oil paint, pixelate, vignette, 
+**Keywords**: image, images, photo, photos, picture, pictures, thumbnail, thumbnails, upload, batch, cdn, content delivery network, transform, manipulate, effects, scale, high availability, fast, format, sharpen, sepia, saturation, grayscale, b&w, hue, brightness, oil paint, pixelate, vignette,
 jpg, jpeg, png, gif, animated gif, pdf, face, faces, crop, resize, scale, fit, fill, pad, rotate, rotation, flip, corners, borders, exif, watermark, caption, overlay, underlay, text, embed, quality, smush.
 
 == Installation ==
 
 1. Search and install the plugin through the `Install Plugins` page of your WordPress dashboard. Alternatively, upload the `cloudinary` folder to the `/wp-content/plugins/` directory of your blog.
 1. Activate the Cloudinary plugin through the `Plugins` page of your WordPress dashboard.
-1. Configure the plugin by selecting `Cloudinary' on the left menu of your WordPress dashboard. 
+1. Configure the plugin by selecting `Cloudinary' on the left menu of your WordPress dashboard.
 
 == Frequently Asked Questions ==
 
@@ -139,12 +139,12 @@ Go to WordPress standard media library (select '**Media**' from the left menu). 
 The selected images are automatically downloaded from Cloudinary to your local server. Associated posts are automatically updated to use local image files of Cloudinary's CDN URLs.
 
 Automatic migrate away is supported since version 1.1.0 of the plugin.
- 
-We would appreciate it if you could let us know why you decided to stop using Cloudinary for your site.   
+
+We would appreciate it if you could let us know why you decided to stop using Cloudinary for your site.
 
 = Where can I find answers to additional common questions? =
 
-Check out our dynamic [knowledge base](http://support.cloudinary.com/forums/21855426-WordPress) for additional questions and articles. 
+Check out our dynamic [knowledge base](http://support.cloudinary.com/forums/21855426-WordPress) for additional questions and articles.
 
 == Screenshots ==
 
@@ -155,11 +155,15 @@ Check out our dynamic [knowledge base](http://support.cloudinary.com/forums/2185
 5. **Insert into post and edit**
 6. **Simple setup after free sign-up**
 
-== Upgrade Notice == 
+== Upgrade Notice ==
 
 N/A
 
 == Changelog ==
+
+= 1.1.7 (11 Dec 2017) =
+* Support https for bulk upload.
+* Fix for DEPRECATED Old style constructor.
 
 = 1.1.6 (6 Aug 2017) =
 * Confirm WordPress 4.8 support.
@@ -187,11 +191,11 @@ N/A
 = 1.1.0 (5 Aug 2013) =
 * Migrate existing posts: upload images to Cloudinary and automatically update associated posts and pages to point to Cloudinary CDN URLs.
 * Migrate away from Cloudinary: bulk image downloading from Cloudinary and automatic post updating to use local image files.
-* Better integration with WordPress featured images and image galleries. 
-* Allow adding Cloudinary's images directly to WP's post gallery for setting as featured image and using for image galleries.   
+* Better integration with WordPress featured images and image galleries.
+* Allow adding Cloudinary's images directly to WP's post gallery for setting as featured image and using for image galleries.
 
 = 1.0.8 (28 Mar 2013) =
-* Register images uploaded to Cloudinary from WordPress media library as media items so they can be used as featured images.  
+* Register images uploaded to Cloudinary from WordPress media library as media items so they can be used as featured images.
 
 = 1.0.7 (25 Mar 2013) =
 * Fix issue of Cloudinary settings not appearing with some themes activated.
@@ -203,7 +207,7 @@ N/A
 * Add class prefix to elements in the settings page to avoid possible collisions.
 
 = 1.0.5 (17 Mar 2013) =
-* Allow administrator (and not only super admin) to manage Cloudinary settings. 
+* Allow administrator (and not only super admin) to manage Cloudinary settings.
 * Validation of CLOUDINARY_URL in Settings page.
 
 = 1.0.4 (16 Mar 2013) =
@@ -217,5 +221,3 @@ N/A
 
 = 1.0.1 (27 Feb 2013) =
 * Fully tested version entering the plugin directory.
-
-
