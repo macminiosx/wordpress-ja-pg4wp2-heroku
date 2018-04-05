@@ -23,51 +23,51 @@ msgstr "Twenty Seventeen"
 msgid "Footer"
 msgstr "フッター"
 
-#: functions.php:317
+#: functions.php:326
 msgid "Add widgets here to appear in your sidebar on blog posts and archive pages."
 msgstr "ブログ投稿やアーカイブページのサイドバーに表示されるウィジェットをここに追加してください。"
 
-#: functions.php:315 sidebar.php:18
+#: functions.php:324 sidebar.php:18
 msgid "Blog Sidebar"
 msgstr "ブログサイドバー"
 
 #: template-parts/header/site-branding.php:34
-#: template-parts/navigation/navigation-top.php:27
+#: template-parts/navigation/navigation-top.php:31
 msgid "Scroll down to content"
 msgstr "本文までスクロール"
 
-#: functions.php:159
+#: functions.php:167
 msgctxt "Theme starter content"
 msgid "Coffee"
 msgstr "コーヒー"
 
-#: functions.php:155
+#: functions.php:163
 msgctxt "Theme starter content"
 msgid "Sandwich"
 msgstr "サンドイッチ"
 
-#: functions.php:151
+#: functions.php:159
 msgctxt "Theme starter content"
 msgid "Espresso"
 msgstr "エスプレッソ"
 
-#: inc/custom-header.php:120
+#: inc/custom-header.php:126
 msgid "Pause background video"
 msgstr "背景動画を一時停止"
 
-#: inc/custom-header.php:119
+#: inc/custom-header.php:125
 msgid "Play background video"
 msgstr "背景動画を再生"
 
-#: inc/template-tags.php:150
+#: inc/template-tags.php:151
 msgid "Front Page Section %1$s Placeholder"
 msgstr "フロントページセクション %1$s プレースホルダー"
 
-#: inc/customizer.php:80
+#: inc/customizer.php:99
 msgid "When the two-column layout is assigned, the page title is in one column and content is in the other."
 msgstr "2カラムレイアウトが割り当てられると、ページタイトルが一方のカラムに、コンテンツが他方のカラムにそれぞれ配置されます。"
 
-#: single.php:32
+#: single.php:34
 msgid "Next Post"
 msgstr "次の投稿"
 
@@ -75,21 +75,21 @@ msgstr "次の投稿"
 msgid "Posts"
 msgstr "投稿"
 
-#: inc/template-tags.php:88
+#: inc/template-tags.php:89
 msgid "Tags"
 msgstr "タグ"
 
-#: inc/template-tags.php:84
+#: inc/template-tags.php:85
 msgid "Categories"
 msgstr "カテゴリー"
 
 #. translators: used between list items, there is a space after the comma
-#: inc/template-tags.php:65
+#: inc/template-tags.php:66
 msgid ", "
 msgstr ", "
 
 #. translators: %s: post date
-#: inc/template-tags.php:51
+#: inc/template-tags.php:52
 msgid "<span class=\"screen-reader-text\">Posted on</span> %s"
 msgstr "<span class=\"screen-reader-text\">投稿日:</span> %s"
 
@@ -106,85 +106,85 @@ msgstr "SVG アイコンのファイル名を決めてください。"
 msgid "Please define default parameters in the form of an array."
 msgstr "配列形式におけるデフォルトパラメーターを設定してください。"
 
-#: inc/customizer.php:108
+#: inc/customizer.php:131
 msgid "Select pages to feature in each area from the dropdowns. Add an image to a section by setting a featured image in the page editor. Empty sections will not be displayed."
 msgstr "各セクションに表示したい固定ページをドロップダウンリストから選んでください。選んだ固定ページの編集画面でアイキャッチ画像を指定すると、そのセクションに画像を追加することもできます。セクションを空っぽにすると何も表示されません。"
 
 #. translators: %d is the front page section number
-#: inc/customizer.php:107
+#: inc/customizer.php:130
 msgid "Front Page Section %d Content"
 msgstr "フロントページ 第%dセクションのコンテンツ"
 
-#: inc/customizer.php:83 inc/customizer.php:132
+#: inc/customizer.php:102 inc/customizer.php:158
 msgid "Two Column"
 msgstr "2カラム"
 
-#: inc/customizer.php:82 inc/customizer.php:131
+#: inc/customizer.php:101 inc/customizer.php:157
 msgid "One Column"
 msgstr "1カラム"
 
-#: inc/customizer.php:77
+#: inc/customizer.php:96
 msgid "Page Layout"
 msgstr "固定ページレイアウト"
 
-#: inc/customizer.php:66
+#: inc/customizer.php:81
 msgid "Theme Options"
 msgstr "テーマオプション"
 
-#: inc/customizer.php:50
+#: inc/customizer.php:59
 msgid "Custom"
 msgstr "カスタム"
 
-#: inc/customizer.php:48
+#: inc/customizer.php:57
 msgid "Light"
 msgstr "ライト"
 
-#: inc/customizer.php:46
+#: inc/customizer.php:55
 msgid "Color Scheme"
 msgstr "配色"
 
-#: inc/custom-header.php:49
+#: inc/custom-header.php:54
 msgid "Default Header Image"
 msgstr "デフォルトのヘッダー画像"
 
-#: functions.php:335
+#: functions.php:348
 msgid "Footer 2"
 msgstr "フッター2"
 
-#: functions.php:327 functions.php:337
+#: functions.php:338 functions.php:350
 msgid "Add widgets here to appear in your footer."
 msgstr "フッターに表示させるにはここにウィジェットを追加してください。"
 
-#: functions.php:325
+#: functions.php:336
 msgid "Footer 1"
 msgstr "フッター1"
 
 #. Translators: If there are characters in your language that are not supported
 #. by Libre Franklin, translate this to 'off'. Do not translate into your own
 #. language.
-#: functions.php:269
+#: functions.php:277
 msgctxt "Libre Franklin font: on or off"
 msgid "on"
 msgstr "off"
 
-#: functions.php:63 functions.php:183
+#: functions.php:64 functions.php:191
 #: template-parts/navigation/navigation-top.php:12
 msgid "Top Menu"
 msgstr "トップメニュー"
 
-#: comments.php:60
+#: comments.php:62
 msgid "Reply"
 msgstr "返信する"
 
-#: template-parts/post/content-none.php:27
+#: template-parts/post/content-none.php:28
 msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
 msgstr "お探しのものが見つからないようです。検索すると良いかもしれません。"
 
-#: search.php:50
+#: search.php:54
 msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
 msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
 
-#: template-parts/post/content-none.php:23
+#: template-parts/post/content-none.php:24
 msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
 msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1$s\">ここから始めましょう</a>。"
 
@@ -192,15 +192,15 @@ msgstr "最初の投稿を公開する準備はできましたか ? <a href=\"%1
 msgid "Nothing Found"
 msgstr "何も見つかりませんでした"
 
-#: single.php:31
+#: single.php:33
 msgid "Previous Post"
 msgstr "過去の投稿"
 
-#: comments.php:66 single.php:31
+#: comments.php:71 single.php:33
 msgid "Previous"
 msgstr "前"
 
-#: comments.php:67 single.php:32
+#: comments.php:72 single.php:34
 msgid "Next"
 msgstr "次"
 
@@ -224,33 +224,33 @@ msgid "Search Results for: %s"
 msgstr "「%s」の検索結果"
 
 #. translators: %s: Name of current post
-#: functions.php:363 template-parts/page/content-front-page-panels.php:43
-#: template-parts/page/content-front-page.php:40
-#: template-parts/post/content-audio.php:83
-#: template-parts/post/content-gallery.php:70
-#: template-parts/post/content-image.php:59
-#: template-parts/post/content-video.php:82 template-parts/post/content.php:56
+#: functions.php:378 template-parts/page/content-front-page-panels.php:45
+#: template-parts/page/content-front-page.php:42
+#: template-parts/post/content-audio.php:84
+#: template-parts/post/content-gallery.php:71
+#: template-parts/post/content-image.php:61
+#: template-parts/post/content-video.php:83 template-parts/post/content.php:57
 msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
 msgstr "<span class=\"screen-reader-text\">\"%s\" の</span>続きを読む"
 
-#: inc/customizer.php:49
+#: inc/customizer.php:58
 msgid "Dark"
 msgstr "ダーク"
 
-#: inc/back-compat.php:39 inc/back-compat.php:51 inc/back-compat.php:66
+#: inc/back-compat.php:39 inc/back-compat.php:52 inc/back-compat.php:68
 msgid "Twenty Seventeen requires at least WordPress version 4.7. You are running version %s. Please upgrade and try again."
 msgstr "Twenty Seventeen には WordPress 4.7以降のバージョンが必要です。現在ご利用中のバージョンは%sです。アップグレードしてもう一度お試しください。"
 
 #. translators: %s: Name of current post
-#: inc/template-tags.php:116
+#: inc/template-tags.php:117
 msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
 msgstr "<span class=\"screen-reader-text\">\"%s\" を</span>編集"
 
-#: template-parts/page/content-page.php:25
-#: template-parts/post/content-audio.php:88
-#: template-parts/post/content-gallery.php:75
-#: template-parts/post/content-image.php:64
-#: template-parts/post/content-video.php:87 template-parts/post/content.php:61
+#: template-parts/page/content-page.php:26
+#: template-parts/post/content-audio.php:91
+#: template-parts/post/content-gallery.php:78
+#: template-parts/post/content-image.php:68
+#: template-parts/post/content-video.php:90 template-parts/post/content.php:64
 msgid "Pages:"
 msgstr "ページ:"
 
@@ -262,15 +262,15 @@ msgstr "メニュー"
 msgid "Skip to content"
 msgstr "コンテンツへスキップ"
 
-#: functions.php:446
+#: functions.php:467
 msgid "Collapse child menu"
 msgstr "サブメニューを閉じる"
 
-#: functions.php:445
+#: functions.php:466
 msgid "Expand child menu"
 msgstr "サブメニューを展開"
 
-#: functions.php:64 functions.php:194
+#: functions.php:65 functions.php:202
 msgid "Social Links Menu"
 msgstr "﻿ソーシャルリンクメニュー"
 
@@ -278,34 +278,34 @@ msgstr "﻿ソーシャルリンクメニュー"
 msgid "Proudly powered by %s"
 msgstr "Proudly powered by %s"
 
-#. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.4)  #-#-#-#-#
+#. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.5)  #-#-#-#-#
 #. Author URI of the plugin/theme
 #: template-parts/footer/site-info.php:13
 msgid "https://wordpress.org/"
 msgstr "https://ja.wordpress.org/"
 
-#: footer.php:25
+#: footer.php:26
 msgid "Footer Social Links Menu"
 msgstr "フッターソーシャルリンクメニュー"
 
-#: comments.php:75
+#: comments.php:82
 msgid "Comments are closed."
 msgstr "コメントは受け付けていません。"
 
 #. translators: 1: number of comments, 2: post title
-#: comments.php:40
+#: comments.php:41
 msgctxt "comments title"
 msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
 msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
 msgstr[0] "&ldquo;%2$s&rdquo; への%1$s件の返信"
 
 #. translators: %s: post title
-#: comments.php:36
+#: comments.php:37
 msgctxt "comments title"
 msgid "One Reply to &ldquo;%s&rdquo;"
 msgstr "&ldquo;%s&rdquo; への1件の返信"
 
-#: archive.php:47 index.php:52 search.php:45
+#: archive.php:50 index.php:54 search.php:47
 msgid "Page"
 msgstr "ページ"
 
@@ -317,11 +317,11 @@ msgstr "お探しのページが見つかりません。"
 msgid "It looks like nothing was found at this location. Maybe try a search?"
 msgstr "こちらには何もありません。検索をお試しください。"
 
-#: archive.php:45 index.php:50 search.php:43
+#: archive.php:48 index.php:52 search.php:45
 msgid "Previous page"
 msgstr "前のページ"
 
-#: archive.php:46 index.php:51 search.php:44
+#: archive.php:49 index.php:53 search.php:46
 msgid "Next page"
 msgstr "次のページ"
 

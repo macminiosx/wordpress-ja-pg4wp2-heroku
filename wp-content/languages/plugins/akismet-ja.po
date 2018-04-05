@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Akismet Anti-Spam - Development (trunk) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2017-11-16 13:41:36+0000\n"
+"PO-Revision-Date: 2018-02-27 06:13:00+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -43,7 +43,7 @@ msgstr "12文字の Akismet API キーです。akismet.com/get/ で入手でき�
 msgid "(%1$s%)"
 msgstr "(%1$s%)"
 
-#: class.akismet.php:210
+#: class.akismet.php:224
 msgid "Comment discarded."
 msgstr "コメントは削除されました。"
 
@@ -69,7 +69,7 @@ msgstr "API キーを使って接続する"
 
 #: views/start.php:84
 msgid "(What is an API key?)"
-msgstr "(API キーとは何ですか?)"
+msgstr "(API キーとは何ですか ?)"
 
 #: views/start.php:83
 msgid "Or enter an API key"
@@ -77,7 +77,7 @@ msgstr "または API キーを入力する"
 
 #: views/start.php:67
 msgid "Or sign up with a different email address"
-msgstr "または別のメールアドレスでサインアップする"
+msgstr "または別のメールアドレスで登録する"
 
 #: views/start.php:31 views/start.php:63
 msgid "You are connected as %s."
@@ -161,13 +161,13 @@ msgstr "チェックするコメントはありませんでした。Akismetは�
 msgid "Checking for Spam"
 msgstr "スパムのチェック中"
 
-#. #-#-#-#-#  akismet-code.pot (Akismet Anti-Spam 4.0.2)  #-#-#-#-#
+#. #-#-#-#-#  akismet-code.pot (Akismet Anti-Spam 4.0.4a1)  #-#-#-#-#
 #. Plugin Name of the plugin/theme
 #: class.akismet-admin.php:95 class.akismet-admin.php:98
 msgid "Akismet Anti-Spam"
 msgstr "Akismet Anti-Spam (アンチスパム)"
 
-#: class.akismet.php:452
+#: class.akismet.php:505
 msgid "Comment not found."
 msgstr "コメントが見つかりません。"
 
@@ -576,11 +576,11 @@ msgstr[0] "ブロックしたスパム"
 msgid "Past six months"
 msgstr "過去6ヶ月間"
 
-#: class.akismet.php:1208
+#: class.akismet.php:1262
 msgid "Please <a href=\"%1$s\">upgrade WordPress</a> to a current version, or <a href=\"%2$s\">downgrade to version 2.4 of the Akismet plugin</a>."
 msgstr "<a href=\"%1$s\">WordPress を最新バージョンにアップグレード</a>するか、<a href=\"%2$s\">Akismet プラグインをバージョン 2.4にダウングレードしてください</a>。"
 
-#: class.akismet.php:1208
+#: class.akismet.php:1262
 msgid "Akismet %s requires WordPress %s or higher."
 msgstr "Akismet %s には WordPress %s 以降が必要です。"
 
