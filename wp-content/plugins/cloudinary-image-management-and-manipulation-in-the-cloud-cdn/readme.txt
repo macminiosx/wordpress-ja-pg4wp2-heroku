@@ -2,7 +2,7 @@
 Contributors: cloudinary
 Tags: image, images, media, gallery, photo, photos, picture, pictures, thumbnail, upload, admin, administration, api, cms, dashboard, editor, flickr, integration, manage, mobile, page, pages, post, social-media
 Requires at least: 3.0
-Tested up to: 4.8
+Tested up to: 4.9.5
 Stable tag: trunk
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -160,6 +160,21 @@ Check out our dynamic [knowledge base](http://support.cloudinary.com/forums/2185
 N/A
 
 == Changelog ==
+
+= 1.1.10 (17 May 2018)
+ * Fix memory exhaustion in "Upload to Cloudinary" functionality
+ * Fix "Cloudinary Upload/Insert" button compatibility and style
+ * Fix `url` and `secure_url` inconsistency
+ * Add handling of WP_Error
+ * Add cloudinary_php v1.10.0 to WordPress plugin
+
+= 1.1.9 (26 Apr 2018) =
+* Fix "Cloudinary Upload/Insert" functionality
+
+= 1.1.8 (22 Apr 2018) =
+* Fix PHP errors( notices) in DEBUG mode.
+* Fix "tinyMCE is not defined" JS error when TinyMCE is not loaded.
+* Fix include path in cloudinary.php.
 
 = 1.1.7 (11 Dec 2017) =
 * Support https for bulk upload.

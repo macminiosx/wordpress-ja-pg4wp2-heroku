@@ -274,13 +274,13 @@ msgstr "サブメニューを展開"
 msgid "Social Links Menu"
 msgstr "﻿ソーシャルリンクメニュー"
 
-#: template-parts/footer/site-info.php:13
+#: template-parts/footer/site-info.php:19
 msgid "Proudly powered by %s"
 msgstr "Proudly powered by %s"
 
-#. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.5)  #-#-#-#-#
+#. #-#-#-#-#  twentyseventeen.pot (Twenty Seventeen 1.6)  #-#-#-#-#
 #. Author URI of the plugin/theme
-#: template-parts/footer/site-info.php:13
+#: template-parts/footer/site-info.php:18
 msgid "https://wordpress.org/"
 msgstr "https://ja.wordpress.org/"
 
